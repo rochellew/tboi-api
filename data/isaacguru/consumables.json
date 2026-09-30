@@ -1,0 +1,6890 @@
+[
+  {
+    "id": "k1",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "0 - The Fool",
+    "clean_name": "0thefool",
+    "number": "#1",
+    "quality": null,
+    "pickup_quote": "Where journey begins",
+    "type_label": "Major Arcana Card",
+    "description": "Teleports Isaac back to the starting room of the floor.\n\nGuaranteed to drop when destroying the Marked Skull in Depths.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "teleport"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k1",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/0_-_The_Fool",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k2",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "I - The Magician",
+    "clean_name": "ithemagician",
+    "number": "#2",
+    "quality": null,
+    "pickup_quote": "May you never miss your goal",
+    "type_label": "Major Arcana Card",
+    "description": "+3 range for the current room.\r\n\nGrants homing tears for the current room.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Range"
+    ],
+    "keywords": [
+      "homing",
+      "purple"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Spoon_Bender_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/k2",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/I_-_The_Magician",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Also grants the effects of The Book of Belial."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k3",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "II - The High Priestess",
+    "clean_name": "iithehighpriestess",
+    "number": "#3",
+    "quality": null,
+    "pickup_quote": "Mother is watching you",
+    "type_label": "Major Arcana Card",
+    "description": "Causes Mom's foot to stomp down on the enemy with the most health, dealing 300 damage.\r\n\nIf used in a room with no enemies, or against Mom, it will stomp Isaac instead.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "mom",
+      "foot",
+      "stomp"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k3",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/II_-_The_High_Priestess",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Causes an additional foot to strike down shorty after the first one."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k4",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "III - The Empress",
+    "clean_name": "iiitheempress",
+    "number": "#4",
+    "quality": null,
+    "pickup_quote": "May your rage bring power",
+    "type_label": "Major Arcana Card",
+    "description": "Grants the effects of Whore of Babylon for the current room, activating them immediately.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Speed",
+      "Damage"
+    ],
+    "keywords": [
+      "whore",
+      "babylon",
+      "eve"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Collectible_Whore_of_Babylon_appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/k4",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/III_-_The_Empress",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Quadruples (4x) the damage boost, and doubles the speed boost."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c122"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k5",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "IV - The Emperor",
+    "clean_name": "ivtheemperor",
+    "number": "#5",
+    "quality": null,
+    "pickup_quote": "Challenge me!",
+    "type_label": "Major Arcana Card",
+    "description": "Teleports Isaac to the current floor's Boss Room.\r\n\nActs as a random teleport if no Boss Room is available on the floor.\r\n\nIf Curse of the Labyrinth! is active, it will teleport Isaac to the second Boss Room.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "teleport",
+      "boss"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k5",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/IV_-_The_Emperor",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Grants a Soul Heart if the floor's boss has not yet been defeated."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "crs2"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k6",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "V - The Hierophant",
+    "clean_name": "vthehierophant",
+    "number": "#6",
+    "quality": null,
+    "pickup_quote": "Two prayers for the lost",
+    "type_label": "Major Arcana Card",
+    "description": "Spawns 2 Soul Hearts.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "soul",
+      "heart"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k6",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/V_-_The_Hierophant",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Spawns 3 Soul Hearts."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 12 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "5.10.3"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k7",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "VI - The Lovers",
+    "clean_name": "vithelovers",
+    "number": "#7",
+    "quality": null,
+    "pickup_quote": "May you prosper and be in good health",
+    "type_label": "Major Arcana Card",
+    "description": "Spawns 2 Hearts.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "red",
+      "heart"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k7",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/VI_-_The_Lovers",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Spawns 3 Red Hearts."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "5.10.1"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k8",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "VII - The Chariot",
+    "clean_name": "viithechariot",
+    "number": "#8",
+    "quality": null,
+    "pickup_quote": "May nothing stand before you",
+    "type_label": "Major Arcana Card",
+    "description": "Grants the effects of My Little Unicorn for 6 seconds.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Speed"
+    ],
+    "keywords": [
+      "invincib",
+      "shield",
+      "protec",
+      "little",
+      "unicorn"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Collectible_My_Little_Unicorn_appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/k8",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/VII_-_The_Chariot",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Doubles the effect's duration."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c77"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k9",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "VIII - Justice",
+    "clean_name": "viiijustice",
+    "number": "#9",
+    "quality": null,
+    "pickup_quote": "May your future become balanced",
+    "type_label": "Major Arcana Card",
+    "description": "Spawns a random heart, key, bomb, and coin.\n\nSpawned pickups can be of any variant.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "heart",
+      "key",
+      "bomb",
+      "coin"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k9",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/VIII_-_Justice",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Spawns twice as many pickups."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k10",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "IX - The Hermit",
+    "clean_name": "ixthehermit",
+    "number": "#10",
+    "quality": null,
+    "pickup_quote": "May you see what life has to offer",
+    "type_label": "Major Arcana Card",
+    "description": "Teleports Isaac to the current floor's Shop.\n\nActs as a random teleport if no Shop is available on the floor.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "teleport",
+      "shop"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k10",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/IX_-_The_Hermit",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Prevents Greed from spawning in the shop. If Greed has already spawned, the shop will turn into a normal shop."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k11",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "X - Wheel of Fortune",
+    "clean_name": "xwheeloffortune",
+    "number": "#11",
+    "quality": null,
+    "pickup_quote": "Spin the wheel of destiny",
+    "type_label": "Major Arcana Card",
+    "description": "Spawns a Slot Machine or Fortune Telling Machine.\r\n\nHas a 1% chance to spawn a Crane Game instead.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "slot",
+      "machine"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k11",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/X_-_Wheel_of_Fortune",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Spawns 2 Slot Machines."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "6.1",
+      "6.3",
+      "6.16"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k12",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XI - Strength",
+    "clean_name": "xistrength",
+    "number": "#12",
+    "quality": null,
+    "pickup_quote": "May your power bring rage",
+    "type_label": "Major Arcana Card",
+    "description": "Grants the effects of Magic Mushroom for the current room.\r\n\nThe extra heart container given from the item is not removed if it would kill Isaac.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Health",
+      "Speed",
+      "Damage",
+      "Damage multiplier",
+      "Range",
+      "Size"
+    ],
+    "keywords": [
+      "magic",
+      "mushroom"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k12",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XI_-_Strength",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Doubles the stat increases, except for the damage multiplier."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c12"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k13",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XII - The Hanged Man",
+    "clean_name": "xiithehangedman",
+    "number": "#13",
+    "quality": null,
+    "pickup_quote": "May you find enlightenment",
+    "type_label": "Major Arcana Card",
+    "description": "Grants the effects of Transcendence for the current room.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Flight"
+    ],
+    "keywords": [
+      "fly",
+      "flight",
+      "transcendence"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/transcendence.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/k13",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XII_-_The_Hanged_Man",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c20"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k14",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XIII - Death",
+    "clean_name": "xiiideath",
+    "number": "#14",
+    "quality": null,
+    "pickup_quote": "Lay waste to all that oppose you",
+    "type_label": "Major Arcana Card",
+    "description": "Activates The Necronomicon effect, dealing 40 damage to all enemies in the room.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "necronomicon",
+      "damage"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k14",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XIII_-_Death",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Doubles the damage output."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c35"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k15",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XIV - Temperance",
+    "clean_name": "xivtemperance",
+    "number": "#15",
+    "quality": null,
+    "pickup_quote": "May you be pure in heart",
+    "type_label": "Major Arcana Card",
+    "description": "Spawns a Blood Donation Machine.\n\nIn Greed Mode, spawns a Devil Beggar instead.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "blood",
+      "donation",
+      "machine",
+      "beggar"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k15",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XIV_-_Temperance",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Spawns 2 Blood Donation Machines."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "6.2",
+      "6.5"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k16",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XV - The Devil",
+    "clean_name": "xvthedevil",
+    "number": "#16",
+    "quality": null,
+    "pickup_quote": "Revel in the power of darkness",
+    "type_label": "Major Arcana Card",
+    "description": "Grants the effects of The Book of Belial for the current room.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Damage"
+    ],
+    "keywords": [
+      "book",
+      "of",
+      "belial",
+      "damage"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Collectible_The_Book_of_Belial_appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/k16",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XV_-_The_Devil",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Counts as having used The Book of Belial twice, resulting in an additional +1 damage."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c34"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k17",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XVI - The Tower",
+    "clean_name": "xvithetower",
+    "number": "#17",
+    "quality": null,
+    "pickup_quote": "Destruction brings creation",
+    "type_label": "Major Arcana Card",
+    "description": "Spawns 6 Troll Bombs, essentially activating the effects of Anarchist Cookbook.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "troll",
+      "bomb",
+      "anarchist",
+      "cookbook"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k17",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XVI_-_The_Tower",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Spawns 13 Troll Bombs."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "5.40.3",
+      "c65"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k18",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XVII - The Stars",
+    "clean_name": "xviithestars",
+    "number": "#18",
+    "quality": null,
+    "pickup_quote": "May you find what you desire",
+    "type_label": "Major Arcana Card",
+    "description": "Teleports Isaac to the Treasure Room, or the Planetarium, if one has spawned.\r\n\nActs as a random teleport if no Treasure Room is available on the floor.\r\n\nIf multiple Treasure Rooms are present, teleports to a random one.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "teleport",
+      "treasure",
+      "planetarium"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k18",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XVII_-_The_Stars",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "If the Treasure Room has not been visited yet, it will have 2 items to choose from. Only one item can be taken. Will not work if teleported to the Planetarium."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k19",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XVIII - The Moon",
+    "clean_name": "xviiithemoon",
+    "number": "#19",
+    "quality": null,
+    "pickup_quote": "May you find all you have lost",
+    "type_label": "Major Arcana Card",
+    "description": "Teleports Isaac to the Secret Room.\n\nActs as a random teleport if no Secret Room is available on the floor.\n\nIf multiple Secret Rooms are present, teleports to a random one.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "teleport",
+      "secret"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k19",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XVIII_-_The_Moon",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k20",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XIX - The Sun",
+    "clean_name": "xixthesun",
+    "number": "#20",
+    "quality": null,
+    "pickup_quote": "May the light heal and enlighten you",
+    "type_label": "Major Arcana Card",
+    "description": "Fully heals all of Isaac's Red Heart containers.\r\n\nDeals 100 damage to all enemies in the room.\r\n\nReveals the entire floor map, except for the Super Secret Room and Ultra Secret Room.\r\n\nRemoves Curse of Darkness!.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "heal",
+      "damage",
+      "curse",
+      "map"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k20",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XIX_-_The_Sun",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Deals 200 damage to all enemies in the room twice."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 12 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "crs1"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k21",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XX - Judgement",
+    "clean_name": "xxjudgement",
+    "number": "#21",
+    "quality": null,
+    "pickup_quote": "Judge lest ye be judged",
+    "type_label": "Major Arcana Card",
+    "description": "Spawns a Beggar.\r\n\nThe Beggar has a rare chance to be of a different variant.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "beggar"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k21",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XX_-_Judgement",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Spawns 2 Beggars."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "6.4"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k22",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XXI - The World",
+    "clean_name": "xxitheworld",
+    "number": "#22",
+    "quality": null,
+    "pickup_quote": "Open your eyes and see",
+    "type_label": "Major Arcana Card",
+    "description": "Reveals the entire floor map, except for the Super Secret Room and Ultra Secret Room.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "map"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k22",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XXI_-_The_World",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k23",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "2 of Clubs",
+    "clean_name": "2ofclubs",
+    "number": "#23",
+    "quality": null,
+    "pickup_quote": "Item multiplier",
+    "type_label": "Playing Card",
+    "description": "Doubles Isaac's bombs, or gives 2 if he doesn't have any.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Bombs"
+    ],
+    "keywords": [
+      "double",
+      "bombs"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k23",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/2_of_Clubs",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 12 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k24",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "2 of Diamonds",
+    "clean_name": "2ofdiamonds",
+    "number": "#24",
+    "quality": null,
+    "pickup_quote": "Item multiplier",
+    "type_label": "Playing Card",
+    "description": "Doubles Isaac's coins, or gives 2 if he doesn't have any.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Coins"
+    ],
+    "keywords": [
+      "double",
+      "money",
+      "coins"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k24",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/2_of_Diamonds",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 12 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k25",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "2 of Spades",
+    "clean_name": "2ofspades",
+    "number": "#25",
+    "quality": null,
+    "pickup_quote": "Item multiplier",
+    "type_label": "Playing Card",
+    "description": "Doubles Isaac's keys, or gives 2 if he doesn't have any.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Keys"
+    ],
+    "keywords": [
+      "double",
+      "keys"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k25",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/2_of_Spades",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 12 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k26",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "2 of Hearts",
+    "clean_name": "2ofhearts",
+    "number": "#26",
+    "quality": null,
+    "pickup_quote": "Item multiplier",
+    "type_label": "Playing Card",
+    "description": "Doubles Isaac's current amount of filled red hearts, or fills one empty red heart container if all of them are empty.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "double",
+      "health"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k26",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/2_of_Hearts",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 12 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k27",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Ace of Clubs",
+    "clean_name": "aceofclubs",
+    "number": "#27",
+    "quality": null,
+    "pickup_quote": "Convert all",
+    "type_label": "Playing Card",
+    "description": "Turns all pickups, chests, and non-boss enemies in the room into random bombs.",
+    "unlock": "Get a win streak of 3.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "bombs"
+    ],
+    "added_in": "Afterbirth+",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k27",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Ace_of_Clubs",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Get a win streak of 3."
+  },
+  {
+    "id": "k28",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Ace of Diamonds",
+    "clean_name": "aceofdiamonds",
+    "number": "#28",
+    "quality": null,
+    "pickup_quote": "Convert all",
+    "type_label": "Playing Card",
+    "description": "Turns all pickups, chests, and non-boss enemies in the room into random coins.",
+    "unlock": "Defeat The Lamb in under 20 minutes.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "money",
+      "coins"
+    ],
+    "added_in": "Afterbirth+",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k28",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Ace_of_Diamonds",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat The Lamb in under 20 minutes."
+  },
+  {
+    "id": "k29",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Ace of Spades",
+    "clean_name": "aceofspades",
+    "number": "#29",
+    "quality": null,
+    "pickup_quote": "Convert all",
+    "type_label": "Playing Card",
+    "description": "Turns all pickups, chests, and non-boss enemies in the room into random keys.",
+    "unlock": "Defeat The Lamb without taking hearts, coins, or bombs through the entire run.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "keys"
+    ],
+    "added_in": "Afterbirth+",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k29",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Ace_of_Spades_(Card)",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat The Lamb without taking hearts, coins, or bombs through the entire run."
+  },
+  {
+    "id": "k30",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Ace of Hearts",
+    "clean_name": "aceofhearts",
+    "number": "#30",
+    "quality": null,
+    "pickup_quote": "Convert all",
+    "type_label": "Playing Card",
+    "description": "Turns all pickups, chests, and non-boss enemies in the room into random hearts.",
+    "unlock": "Complete an entire chapter after Basement while having a total of only half a heart or less. {{i|The Lost}} can be used for this.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "health"
+    ],
+    "added_in": "Afterbirth+",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k30",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Ace_of_Hearts",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [
+      "chr10"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Complete an entire chapter after Basement while having a total of only half a heart or less. The Lost can be used for this."
+  },
+  {
+    "id": "k31",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Joker",
+    "clean_name": "joker",
+    "number": "#31",
+    "quality": null,
+    "pickup_quote": "???",
+    "type_label": "Playing Card",
+    "description": "Teleports Isaac to the Devil Room or Angel Room.\n\nAlso works if the floor cannot normally spawn such a room.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "teleport",
+      "devil",
+      "angel"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k31",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Joker",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k32",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "rune",
+    "name": "Hagalaz",
+    "clean_name": "hagalaz",
+    "number": "#32",
+    "quality": null,
+    "pickup_quote": "Destruction",
+    "type_label": "Rune",
+    "description": "Destroys all obstacles in the room, excluding Metal Blocks, Pillars, and Key Blocks.\r\n\nAlso destroys stone enemies such as Stoneys and Stone Grimaces.\r\n\nDestroys the armor of enemies such as Hosts, Knights, Tuff Twins, and The Shell.",
+    "unlock": "Complete challenge #1: {{chal|Pitch Black}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "destroy",
+      "rocks"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k32",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Hagalaz",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "Pitch Black"
+    ],
+    "unlock_text": "Complete challenge #1: Pitch Black."
+  },
+  {
+    "id": "k33",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "rune",
+    "name": "Jera",
+    "clean_name": "jera",
+    "number": "#33",
+    "quality": null,
+    "pickup_quote": "Abundance",
+    "type_label": "Rune",
+    "description": "Duplicates all pickups and chests in the room, excluding item pedestals.\r\n\nWill also duplicate pickups that require payment, e.g. ones inside the shop.\r\n\nCloned chests will contain the exact same type of contents.\r\n\nCannot be used to clone other Jera runes, or trinkets.",
+    "unlock": "Complete challenge #2: {{chal|High Brow}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "duplicate",
+      "double"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k33",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Jera",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 12 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "High Brow"
+    ],
+    "unlock_text": "Complete challenge #2: High Brow."
+  },
+  {
+    "id": "k34",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "rune",
+    "name": "Ehwaz",
+    "clean_name": "ehwaz",
+    "number": "#34",
+    "quality": null,
+    "pickup_quote": "Passage",
+    "type_label": "Rune",
+    "description": "Activates the effects of We Need To Go Deeper!, creating a trapdoor leading to the next floor, or a guaranteed Crawl Space if used on a special tile.",
+    "unlock": "Complete challenge #3: {{chal|Head Trauma}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "trapdoor",
+      "shovel",
+      "crawl",
+      "space"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k34",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Ehwaz",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c84"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "Head Trauma"
+    ],
+    "unlock_text": "Complete challenge #3: Head Trauma."
+  },
+  {
+    "id": "k35",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "rune",
+    "name": "Dagaz",
+    "clean_name": "dagaz",
+    "number": "#35",
+    "quality": null,
+    "pickup_quote": "Purity",
+    "type_label": "Rune",
+    "description": "+1 Soul Heart.\r\n\nRemoves any curses on the current floor, except Curse of the Labyrinth!.",
+    "unlock": "Complete challenge #4: {{chal|Darkness Falls}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "curse",
+      "soul",
+      "heart"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k35",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Dagaz",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "crs2"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "Darkness Falls"
+    ],
+    "unlock_text": "Complete challenge #4: Darkness Falls."
+  },
+  {
+    "id": "k36",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "rune",
+    "name": "Ansuz",
+    "clean_name": "ansuz",
+    "number": "#36",
+    "quality": null,
+    "pickup_quote": "Vision",
+    "type_label": "Rune",
+    "description": "Reveals the entire map, except the Ultra Secret Room.",
+    "unlock": "Complete challenge #5: {{chal|The Tank}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "map",
+      "floor"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k36",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Ansuz",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "The Tank"
+    ],
+    "unlock_text": "Complete challenge #5: The Tank."
+  },
+  {
+    "id": "k37",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "rune",
+    "name": "Perthro",
+    "clean_name": "perthro",
+    "number": "#37",
+    "quality": null,
+    "pickup_quote": "Change",
+    "type_label": "Rune",
+    "description": "Activates the effects of The D6, rerolling all item pedestals in the room.",
+    "unlock": "Complete challenge #6: {{chal|Solar System}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "d6",
+      "die",
+      "dice",
+      "reroll"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k37",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Perthro",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c105"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "Solar System"
+    ],
+    "unlock_text": "Complete challenge #6: Solar System."
+  },
+  {
+    "id": "k38",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "rune",
+    "name": "Berkano",
+    "clean_name": "berkano",
+    "number": "#38",
+    "quality": null,
+    "pickup_quote": "Companionship",
+    "type_label": "Rune",
+    "description": "Spawns 3 Abyss locusts with a 1x damage multiplier for the duration of the room.",
+    "unlock": "Complete challenge #20: {{chal|Purist}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "blue",
+      "fly",
+      "spider"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k38",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Berkano",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c706"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "Purist"
+    ],
+    "unlock_text": "Complete challenge #20: Purist."
+  },
+  {
+    "id": "k39",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "rune",
+    "name": "Algiz",
+    "clean_name": "algiz",
+    "number": "#39",
+    "quality": null,
+    "pickup_quote": "Resistance",
+    "type_label": "Rune",
+    "description": "Grants a shield similar to Book of Shadows that lasts for 20 seconds.",
+    "unlock": "Complete challenge #8: {{chal|Cat Got Your Tongue}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "shield",
+      "protec",
+      "book",
+      "of",
+      "shadows"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k39",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Algiz",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c58"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "Cat Got Your Tongue"
+    ],
+    "unlock_text": "Complete challenge #8: Cat Got Your Tongue."
+  },
+  {
+    "id": "k40",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "rune",
+    "name": "Blank Rune",
+    "clean_name": "blankrune",
+    "number": "#40",
+    "quality": null,
+    "pickup_quote": "???",
+    "type_label": "Rune",
+    "description": "Grants a random rune effect.\r\n\nHas a 25% chance to drop another Blank Rune upon use.",
+    "unlock": "Complete challenge #30: {{chal|The Guardian}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "random"
+    ],
+    "added_in": "Afterbirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k40",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Blank_Rune",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "The Guardian"
+    ],
+    "unlock_text": "Complete challenge #30: The Guardian."
+  },
+  {
+    "id": "k41",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "rune",
+    "name": "Black Rune",
+    "clean_name": "blackrune",
+    "number": "#41",
+    "quality": null,
+    "pickup_quote": "Void",
+    "type_label": "Rune",
+    "description": "Activates the effects of The Necronomicon, dealing 40 damage to all enemies in the room.\r\n\nConverts all pickups in the room into Blue Flies and Blue Spiders.\r\n\nConverts all item pedestals in the room into random stat upgrades, similarly to consuming a passive item with Void. Will also consume active items but turn them into stats as well.",
+    "unlock": "Defeat Ultra Greedier as {{i|Apollyon}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "consume",
+      "blue",
+      "fly",
+      "spider",
+      "stat",
+      "necronomicon",
+      "void"
+    ],
+    "added_in": "Afterbirth+",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k41",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Black_Rune",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c35",
+      "c477"
+    ],
+    "unlock_ref_ids": [
+      "chr15"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greedier as Apollyon."
+  },
+  {
+    "id": "k42",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Chaos Card",
+    "clean_name": "chaoscard",
+    "number": "#42",
+    "quality": null,
+    "pickup_quote": "???",
+    "type_label": "Consumable",
+    "description": "Throws the card in the direction Isaac's body is facing (movement direction). Anything that crosses the card's path gets instantly destroyed, including enemies, bosses and obstacles.\r\n\nThe card has a short range, but can pass through multiple enemies.\r\n\nCan also kill indestructible enemies, except Dark Esau.\r\n\nWill blow open doors, just like a regular bomb explosion.\r\n\nCannot kill Delirium, The Beast, and Mother's Shadow.\r\n\nUsing it on some multi-phase bosses will only defeat their current phase: Satan (if used on the Fallen phase), Mega Satan, Hush, Ultra Greed, Mother, Dogma.\r\n\nUsing it on Great Gideon will reveal a secret crawlspace underneath him that contains several chests and items.",
+    "unlock": "Complete challenge #9: {{chal|Demo Man}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "instakill"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k42",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Chaos_Card",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "Demo Man"
+    ],
+    "unlock_text": "Complete challenge #9: Demo Man."
+  },
+  {
+    "id": "k43",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Credit Card",
+    "clean_name": "creditcard",
+    "number": "#43",
+    "quality": null,
+    "pickup_quote": "Charge it!",
+    "type_label": "Consumable",
+    "description": "Removes all price tags from items in the current room, making them instantly takeable without payment.\r\n\nWorks both for items that require coins or heart containers in order to purchase.",
+    "unlock": "Complete challenge #10: {{chal|Cursed!}}",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "free",
+      "shop",
+      "money"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k43",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Credit_Card",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "Cursed!"
+    ],
+    "unlock_text": "Complete challenge #10: Cursed!"
+  },
+  {
+    "id": "k44",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Rules Card",
+    "clean_name": "rulescard",
+    "number": "#44",
+    "quality": null,
+    "pickup_quote": "???",
+    "type_label": "Consumable",
+    "description": "Displays a random message on the screen, similarly to a Fortune Telling Machine.\r\n\nThese messages will often contain hints, or special seeds.",
+    "unlock": "Complete challenge #11: {{chal|Glass Cannon}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "fortune",
+      "message"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k44",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Rules_Card",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 1 room"
+      }
+    ],
+    "referenced_ids": [
+      "6.3"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "Glass Cannon"
+    ],
+    "unlock_text": "Complete challenge #11: Glass Cannon."
+  },
+  {
+    "id": "k45",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "A Card Against Humanity",
+    "clean_name": "cardagainsthumanity",
+    "number": "#45",
+    "quality": null,
+    "pickup_quote": "Something stinks...",
+    "type_label": "Consumable",
+    "description": "Fills the entire room with poop.",
+    "unlock": "Complete challenge #12: {{chal|When Life Gives You Lemons}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "black",
+      "poop"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k45",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/A_Card_Against_Humanity",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "When Life Gives You Lemons"
+    ],
+    "unlock_text": "Complete challenge #12: When Life Gives You Lemons."
+  },
+  {
+    "id": "k46",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Suicide King",
+    "clean_name": "suicideking",
+    "number": "#46",
+    "quality": null,
+    "pickup_quote": "A true ending?",
+    "type_label": "Consumable",
+    "description": "Instantly kills Isaac and spawns 10 pickups and/or items from the current room's item pool.",
+    "unlock": "Complete challenge #7: {{chal|Suicide King}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "death"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k46",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Suicide_King",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 1 room"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "Suicide King"
+    ],
+    "unlock_text": "Complete challenge #7: Suicide King."
+  },
+  {
+    "id": "k47",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Get Out Of Jail Free Card",
+    "clean_name": "getoutofjailfreecard",
+    "number": "#47",
+    "quality": null,
+    "pickup_quote": "Open Sesame",
+    "type_label": "Consumable",
+    "description": "Opens all doors in the room, essentially activating the effects of Dad's Key.",
+    "unlock": "Complete challenge #22: {{chal|SPEED!}}",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "open",
+      "dad's",
+      "key"
+    ],
+    "added_in": "Afterbirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k47",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Get_Out_Of_Jail_Free_Card",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c175"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "SPEED!"
+    ],
+    "unlock_text": "Complete challenge #22: SPEED!"
+  },
+  {
+    "id": "k48",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "? Card",
+    "clean_name": "?card",
+    "number": "#48",
+    "quality": null,
+    "pickup_quote": "Double active",
+    "type_label": "Consumable",
+    "description": "Activates Isaac's active item without wasting a charge, or making one-time-use items disappear.\n\nDoes not work for active items that are in the consumables slot.\n\nWhen used with Blank Card, it will teleport Isaac to the I AM ERROR room, consuming both Blank Card and the ? Card in the process.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "question",
+      "double"
+    ],
+    "added_in": "Afterbirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k48",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/%3F_Card",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 1 room"
+      }
+    ],
+    "referenced_ids": [
+      "c286"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k49",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Dice Shard",
+    "clean_name": "diceshard",
+    "number": "#49",
+    "quality": null,
+    "pickup_quote": "D6 + D20",
+    "type_label": "Consumable",
+    "description": "Activates the effects of The D6 and D20 at the same time.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "d6",
+      "d20",
+      "reroll",
+      "die"
+    ],
+    "added_in": "Afterbirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k49",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Dice_Shard",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      }
+    ],
+    "referenced_ids": [
+      "c105",
+      "c166"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k50",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Emergency Contact",
+    "clean_name": "emergencycontact",
+    "number": "#50",
+    "quality": null,
+    "pickup_quote": "Help from above",
+    "type_label": "Consumable",
+    "description": "Causes 2 of Mom's Hands to come down and grab 2 random enemies, dealing 40 damage to them.\n\nIf enemies have 40 or more HP, they are temporarily pinned to the ground, unable to move or shoot.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "mom",
+      "mother",
+      "hand",
+      "grab"
+    ],
+    "added_in": "Afterbirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k50",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Emergency_Contact",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k51",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Holy Card",
+    "clean_name": "holycard",
+    "number": "#51",
+    "quality": null,
+    "pickup_quote": "You feel protected",
+    "type_label": "Consumable",
+    "description": "Grants a one-time-use Holy Mantle shield, that protects against one instance of damage.",
+    "unlock": "Defeat Delirium as {{i|The Lost}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "angel",
+      "cross",
+      "mantle",
+      "shield",
+      "protec"
+    ],
+    "added_in": "Afterbirth+",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Collectible_Holy_Mantle_appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/k51",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Holy_Card",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c313"
+    ],
+    "unlock_ref_ids": [
+      "chr10"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Delirium as The Lost."
+  },
+  {
+    "id": "k52",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Huge Growth",
+    "clean_name": "hugegrowth",
+    "number": "#52",
+    "quality": null,
+    "pickup_quote": "Become immense!",
+    "type_label": "Consumable",
+    "description": "+7 flat damage.\n\n+3 range.\n\n+60% size. Does not affect the hitbox.\n\nGrants Isaac the ability to crush obstacles by walking over them.\n\nEffects last only for the current room.",
+    "unlock": "Increase in size 5 times in a run by acquiring size-up items or consumables.",
+    "base_stats": null,
+    "stat_changes": [
+      "Damage",
+      "Range",
+      "Size"
+    ],
+    "keywords": [
+      "big",
+      "giant",
+      "size"
+    ],
+    "added_in": "Afterbirth+",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k52",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Huge_Growth",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Increase in size 5 times in a run by acquiring size-up items or consumables."
+  },
+  {
+    "id": "k53",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Ancient Recall",
+    "clean_name": "ancientrecall",
+    "number": "#53",
+    "quality": null,
+    "pickup_quote": "Draw 3 cards",
+    "type_label": "Consumable",
+    "description": "Spawns 3 random cards.\n\nCan also spawn special cards, such as Cracked Key, Dice Shard, or Emergency Contact.",
+    "unlock": "Use cards and runes 20 times.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "random"
+    ],
+    "added_in": "Afterbirth+",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k53",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Ancient_Recall",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 12 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "k78",
+      "k49",
+      "k50"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Use cards and runes 20 times."
+  },
+  {
+    "id": "k54",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Era Walk",
+    "clean_name": "erawalk",
+    "number": "#54",
+    "quality": null,
+    "pickup_quote": "Savor the moment",
+    "type_label": "Consumable",
+    "description": "+0.5 speed.\n\n-1 shot speed.\n\nSlows down enemies.\n\nEffects last for the current room.",
+    "unlock": "Add both {{i|Broken Watch}} and {{i|Stop Watch}} to your collection page.",
+    "base_stats": null,
+    "stat_changes": [
+      "Speed",
+      "Shotspeed"
+    ],
+    "keywords": [
+      "slow",
+      "stop",
+      "watch",
+      "broken",
+      "watch",
+      "stopwatch"
+    ],
+    "added_in": "Afterbirth+",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k54",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Era_Walk",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [
+      "c337",
+      "c232"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Add both Broken Watch and Stop Watch to your collection page."
+  },
+  {
+    "id": "k55",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "rune",
+    "name": "Rune Shard",
+    "clean_name": "runeshard",
+    "number": "#55",
+    "quality": null,
+    "pickup_quote": "It still glows faintly",
+    "type_label": "Rune",
+    "description": "Activates one of the following weaker rune effects:\r\n\n• Algiz: grants a shield that lasts 3 seconds.\r\n\n• Ansuz: reveals the map up to 3 rooms away from Isaac.\r\n\n• Berkano: spawns an Abyss locust for the duration of the room.\r\n\n• Dagaz: gives half a soul heart.\r\n\n• Hagalaz: destroys only some rocks.\r\n\n• Jera: duplicates only one pickup.\r\n\n• Perthro: rerolls only one item.\r\n\nCan spawn as a replacement for any other rune that hasn't been unlocked yet. This means that once all runes have been unlocked, Rune Shard will no longer be able to spawn.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "broken",
+      "random"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k55",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Rune_Shard",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 1 room"
+      }
+    ],
+    "referenced_ids": [
+      "k39",
+      "k36",
+      "k38",
+      "c706",
+      "k35",
+      "k32",
+      "k33",
+      "k37"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "k56",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "0 - The Fool?",
+    "clean_name": "0thefool?",
+    "number": "#56",
+    "quality": null,
+    "pickup_quote": "Let go and move on",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "Drops all of Isaac's hearts and pickups on the ground, leaving him at only half a heart.\n\nDropped pickups may be combined in items equal to their worth, such as A Quarter, A Dollar, Boom!, and Skeleton Key.",
+    "unlock": "Defeat Ultra Greedier as {{i|Tainted Lost}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "drop",
+      "pickups",
+      "quarter",
+      "boom",
+      "skeleton",
+      "key"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k56",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/0_-_The_Fool%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Also drops Isaac's 6 most recently collected items."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 12 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c74",
+      "c18",
+      "c19",
+      "c17"
+    ],
+    "unlock_ref_ids": [
+      "chr31"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greedier as Tainted Lost."
+  },
+  {
+    "id": "k57",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "I - The Magician?",
+    "clean_name": "ithemagician?",
+    "number": "#57",
+    "quality": null,
+    "pickup_quote": "May no harm come to you",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "Grants a blue aura that repels enemies and projectiles for 60 seconds, similar, but much stronger than The Soul.",
+    "unlock": "Defeat Ultra Greedier as {{i|Tainted Judas}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "repel",
+      "soul"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k57",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/I_-_The_Magician%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c335"
+    ],
+    "unlock_ref_ids": [
+      "chr24"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greedier as Tainted Judas."
+  },
+  {
+    "id": "k58",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "II - The High Priestess?",
+    "clean_name": "iithehighpriestess?",
+    "number": "#58",
+    "quality": null,
+    "pickup_quote": "Run",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "Causes Mom's leg to repeatedly stomp down on Isaac's location for 60 seconds.",
+    "unlock": "Defeat Ultra Greedier as {{i|Tainted Lilith}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "mom",
+      "leg",
+      "foot",
+      "stomp"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k58",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/II_-_The_High_Priestess%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [
+      "chr32"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greedier as Tainted Lilith."
+  },
+  {
+    "id": "k59",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "III - The Empress?",
+    "clean_name": "iiitheempress?",
+    "number": "#59",
+    "quality": null,
+    "pickup_quote": "May your love bring protection",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "+2 full Red Heart containers.\n\n+1.5 fire rate.\n\nEffects last for 60 seconds.\n\nIf losing the heart containers gained from the card would result in killing Isaac, he will get left with only 1 heart instead.",
+    "unlock": "Defeat Ultra Greedier as {{i|Tainted Eve}}.",
+    "base_stats": null,
+    "stat_changes": [
+      "Health",
+      "Fire rate"
+    ],
+    "keywords": [],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k59",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/III_-_The_Empress%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Adds a total of 3 heart containers."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [
+      "chr26"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greedier as Tainted Eve."
+  },
+  {
+    "id": "k60",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "IV - The Emperor?",
+    "clean_name": "ivtheemperor?",
+    "number": "#60",
+    "quality": null,
+    "pickup_quote": "May you find a worthy opponent",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "Teleports Isaac to an extra Boss Room that is not part of the floor layout. The room is chosen from the boss pool 2 floors deeper than the current floor (cannot be a final boss).\n\nDefeating the extra boss will spawn an item normally, but no trap door or Devil/Angel Room can appear there. Isaac can exit the room normally to get back to where he was previously.",
+    "unlock": "Defeat Ultra Greedier as {{i|Tainted ???}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "teleport",
+      "boss"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k60",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/IV_-_The_Emperor%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [
+      "chr25"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greedier as Tainted ???."
+  },
+  {
+    "id": "k61",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "V - The Hierophant?",
+    "clean_name": "vthehierophant?",
+    "number": "#61",
+    "quality": null,
+    "pickup_quote": "Two prayers for the forgotten",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "Spawns 2 Bone Hearts.",
+    "unlock": "Defeat Ultra Greedier as {{i|Tainted Bethany}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "bone",
+      "heart"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k61",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/V_-_The_Hierophant%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Spawns 3 Bone Hearts."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 12 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "5.10.11"
+    ],
+    "unlock_ref_ids": [
+      "chr36"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greedier as Tainted Bethany."
+  },
+  {
+    "id": "k62",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "VI - The Lovers?",
+    "clean_name": "vithelovers?",
+    "number": "#62",
+    "quality": null,
+    "pickup_quote": "May your heart shatter into pieces",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "Activates the effects of Magic Skin, spawning a random item from the current room's item pool in exchange of converting a red heart container (or 2 soul hearts) into a Broken Heart.",
+    "unlock": "Defeat Ultra Greedier as {{i|Tainted Magdalene}}.",
+    "base_stats": null,
+    "stat_changes": [
+      "Health"
+    ],
+    "keywords": [
+      "magic",
+      "skin"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k62",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/VI_-_The_Lovers%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Spawns 2 items in exchange for 2 Broken Hearts."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c642"
+    ],
+    "unlock_ref_ids": [
+      "chr22"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greedier as Tainted Magdalene."
+  },
+  {
+    "id": "k63",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "VII - The Chariot?",
+    "clean_name": "viithechariot?",
+    "number": "#63",
+    "quality": null,
+    "pickup_quote": "May nothing walk past you",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "x4 fire rate multiplier.\r\n\nTurns Isaac into an invulnerable statue that can be slightly moved.\r\n\nEffects last for 10 seconds.",
+    "unlock": "Complete challenge #42: {{chal|Hot Potato}}.",
+    "base_stats": null,
+    "stat_changes": [
+      "Fire rate"
+    ],
+    "keywords": [
+      "edith",
+      "statue",
+      "gnawed",
+      "leaf"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Edith.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/k63",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/VII_-_The_Chariot%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "Hot Potato"
+    ],
+    "unlock_text": "Complete challenge #42: Hot Potato."
+  },
+  {
+    "id": "k64",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "VIII - Justice?",
+    "clean_name": "viiijustice?",
+    "number": "#64",
+    "quality": null,
+    "pickup_quote": "May your sins come back to torment you",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "Spawns 2-4 Locked Chests.",
+    "unlock": "Complete challenge #43: {{chal|Cantripped!}}",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "locked",
+      "golden",
+      "chest"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k64",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/VIII_-_Justice%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Spawns 4-14 Locked Chests."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 12 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "5.60"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "Cantripped!"
+    ],
+    "unlock_text": "Complete challenge #43: Cantripped!"
+  },
+  {
+    "id": "k65",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "IX - The Hermit?",
+    "clean_name": "ixthehermit?",
+    "number": "#65",
+    "quality": null,
+    "pickup_quote": "May you see the value of all things in life",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "Sells all items and pickups on the ground for their usual Shop price, spawning a matching amount of coins.\r\n\nIf there is nothing to sell, spawns a single Penny instead.",
+    "unlock": "Complete challenge #44: {{chal|Red Redemption}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "sell",
+      "shop",
+      "coin",
+      "penny",
+      "money"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k65",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/IX_-_The_Hermit%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Spawns an additional penny."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "5.20.1"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "Red Redemption"
+    ],
+    "unlock_text": "Complete challenge #44: Red Redemption."
+  },
+  {
+    "id": "k66",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "X - Wheel of Fortune?",
+    "clean_name": "xwheeloffortune?",
+    "number": "#66",
+    "quality": null,
+    "pickup_quote": "Throw the dice of fate",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "Invokes a random Dice Room effect.",
+    "unlock": "Defeat Ultra Greedier as {{i|Tainted Cain}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "die",
+      "dice",
+      "room",
+      "reroll"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k66",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/X_-_Wheel_of_Fortune%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Invokes 2 random Dice Room effects."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [
+      "chr23"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greedier as Tainted Cain."
+  },
+  {
+    "id": "k67",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XI - Strength?",
+    "clean_name": "xistrength?",
+    "number": "#67",
+    "quality": null,
+    "pickup_quote": "May you break their resolve",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "Slows all enemies in the room and causes them to take double damage from all sources.\n\nThe effects lasts for 60 seconds, or until the room is left.",
+    "unlock": "Defeat Ultra Greedier as {{i|Tainted Samson}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "slow",
+      "weak",
+      "pink"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k67",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XI_-_Strength%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [
+      "chr27"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greedier as Tainted Samson."
+  },
+  {
+    "id": "k68",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XII - The Hanged Man?",
+    "clean_name": "xiithehangedman?",
+    "number": "#68",
+    "quality": null,
+    "pickup_quote": "May your greed know no bounds",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "Isaac visually turns into Keeper for 30 seconds, gaining triple shot, and -0.1 speed.\n\nEnemies killed by the converted character while the effect is active drop random coins.",
+    "unlock": "Defeat Ultra Greedier as {{i|Tainted Keeper}}.",
+    "base_stats": null,
+    "stat_changes": [
+      "Speed"
+    ],
+    "keywords": [
+      "keeper",
+      "coin",
+      "money"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Character_Keeper_appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/k68",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XII_-_The_Hanged_Man%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "The effect lasts for 60 seconds."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "chr14"
+    ],
+    "unlock_ref_ids": [
+      "chr33"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greedier as Tainted Keeper."
+  },
+  {
+    "id": "k69",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XIII - Death?",
+    "clean_name": "xiiideath?",
+    "number": "#69",
+    "quality": null,
+    "pickup_quote": "May life spring forth from the fallen",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "Activates the effects of Book of the Dead, turning enemies killed in the room into bone familiars or friendly Bonies.",
+    "unlock": "Defeat Ultra Greedier as {{i|Tainted Forgotten}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "book",
+      "of",
+      "the",
+      "dead"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k69",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XIII_-_Death%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c545"
+    ],
+    "unlock_ref_ids": [
+      "chr35"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greedier as Tainted Forgotten."
+  },
+  {
+    "id": "k70",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XIV - Temperance?",
+    "clean_name": "xivtemperance?",
+    "number": "#70",
+    "quality": null,
+    "pickup_quote": "May your hunger be satiated",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "Forces Isaac to eat 5 random pills in quick succession.",
+    "unlock": "Complete challenge #45: {{chal|DELETE THIS}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "pills"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k70",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XIV_-_Temperance%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Forces Isaac to eat 10 pills."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "DELETE THIS"
+    ],
+    "unlock_text": "Complete challenge #45: DELETE THIS."
+  },
+  {
+    "id": "k71",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XV - The Devil?",
+    "clean_name": "xvthedevil?",
+    "number": "#71",
+    "quality": null,
+    "pickup_quote": "Bask in the light of your mercy",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "Activates the effects of The Bible, and grants a Seraphim familiar for 30 seconds.",
+    "unlock": "Defeat Ultra Greedier as {{i|Tainted Azazel}}.",
+    "base_stats": null,
+    "stat_changes": [
+      "Flight"
+    ],
+    "keywords": [
+      "bible",
+      "seraphim",
+      "fly",
+      "flight"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k71",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XV_-_The_Devil%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c33",
+      "c390"
+    ],
+    "unlock_ref_ids": [
+      "chr28"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greedier as Tainted Azazel."
+  },
+  {
+    "id": "k72",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XVI - The Tower?",
+    "clean_name": "xvithetower?",
+    "number": "#72",
+    "quality": null,
+    "pickup_quote": "Creation brings destruction",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "Creates up to 7 clusters of random rocks and other obstacles.\n\nThese clusters will often contain tinted rocks, with the possibility of more than one tinted rock appearing in the same room.",
+    "unlock": "Defeat Ultra Greedier as {{i|Tainted Apollyon}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "obstacle",
+      "tinted",
+      "rock"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k72",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XVI_-_The_Tower%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Spawns up to 14 rock clusters."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [
+      "chr34"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greedier as Tainted Apollyon."
+  },
+  {
+    "id": "k73",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XVII - The Stars?",
+    "clean_name": "xviithestars?",
+    "number": "#73",
+    "quality": null,
+    "pickup_quote": "May your loss bring fortune",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "Spawns 2 random items from the current room's item pool in exchange for Isaac's oldest passive item.\n\nStarting items are ignored and cannot be removed.",
+    "unlock": "Defeat Ultra Greedier as {{i|Tainted Isaac}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "reroll"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k73",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XVII_-_The_Stars%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Spawns 4 items in exchange for 2."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 12 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [
+      "chr21"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greedier as Tainted Isaac."
+  },
+  {
+    "id": "k74",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XVIII - The Moon?",
+    "clean_name": "xviiithemoon?",
+    "number": "#74",
+    "quality": null,
+    "pickup_quote": "May you remember lost memories",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "Teleports Isaac to the Ultra Secret Room, creating a pathway back to normal rooms via red rooms.\n\nActs as a random teleport if no Ultra Secret Room is available on the floor.",
+    "unlock": "Defeat Ultra Greedier as {{i|Tainted Jacob}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "teleport",
+      "ultra",
+      "secret",
+      "room",
+      "red"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k74",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XVIII_-_The_Moon%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [
+      "chr37"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greedier as Tainted Jacob."
+  },
+  {
+    "id": "k75",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XIX - The Sun?",
+    "clean_name": "xixthesun?",
+    "number": "#75",
+    "quality": null,
+    "pickup_quote": "May the darkness swallow all around you",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "+1.5 damage.\r\n\nTurns Isaac's red heart containers into Bone Hearts.\r\n\nGrants Spirit of the Night.\r\n\nApplies Curse of Darkness!.\r\n\nEffects last for the current floor.",
+    "unlock": "Defeat Ultra Greedier as {{i|Tainted Jacob}}.",
+    "base_stats": null,
+    "stat_changes": [
+      "Health",
+      "Damage",
+      "Flight"
+    ],
+    "keywords": [
+      "spirit",
+      "of",
+      "the",
+      "night",
+      "curse",
+      "of",
+      "darkness",
+      "damage",
+      "flight"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Collectible_Spirit_of_the_Night_appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/k75",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XIX_-_The_Sun%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c159",
+      "crs1"
+    ],
+    "unlock_ref_ids": [
+      "chr37"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greedier as Tainted Jacob."
+  },
+  {
+    "id": "k76",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XX - Judgement?",
+    "clean_name": "xxjudgement?",
+    "number": "#76",
+    "quality": null,
+    "pickup_quote": "May you redeem those found wanting",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "Spawns a Shop Restock Machine.",
+    "unlock": "Defeat Ultra Greedier as {{i|Tainted Lazarus}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "shop",
+      "restock",
+      "machine"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k76",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XX_-_Judgement%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "Spawns 2 Shop Restock Machines."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 12 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "6.10."
+    ],
+    "unlock_ref_ids": [
+      "chr29"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greedier as Tainted Lazarus."
+  },
+  {
+    "id": "k77",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "XXI - The World?",
+    "clean_name": "xxitheworld?",
+    "number": "#77",
+    "quality": null,
+    "pickup_quote": "Step into the abyss",
+    "type_label": "Reversed Major Arcana Card",
+    "description": "Spawns a trapdoor that leads to a Crawl Space.",
+    "unlock": "Defeat Ultra Greedier as {{i|Tainted Eden}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "trapdoor",
+      "crawl",
+      "space"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k77",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/XXI_-_The_World%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [
+      "chr30"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greedier as Tainted Eden."
+  },
+  {
+    "id": "k78",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Cracked Key",
+    "clean_name": "crackedkey",
+    "number": "#78",
+    "quality": null,
+    "pickup_quote": "???",
+    "type_label": "Consumable",
+    "description": "Activates the effects of Red Key, creating a Red Room adjacent to a viable wall.\r\n\nCan be created by dropping any trinket in a Boss Room or Treasure Room prior to picking up Dad's Note. Trinkets dropped in these rooms will convert to Cracked Key during the Ascent floors.",
+    "unlock": "Open {{i|Mom's Chest}} in the Home level.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "red",
+      "key",
+      "red",
+      "room"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k78",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Cracked_Key",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [],
+    "referenced_ids": [
+      "c580",
+      "c668"
+    ],
+    "unlock_ref_ids": [
+      "5.390"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Open Mom's Chest in the Home level."
+  },
+  {
+    "id": "k79",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Queen of Hearts",
+    "clean_name": "queenofhearts",
+    "number": "#79",
+    "quality": null,
+    "pickup_quote": "<3",
+    "type_label": "Playing Card",
+    "description": "Spawns 1-20 Hearts.",
+    "unlock": "Defeat Mega Satan as {{i|Tainted Magdalene}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "red",
+      "heart",
+      "heal"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k79",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Queen_of_Hearts",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 12 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "5.10.1"
+    ],
+    "unlock_ref_ids": [
+      "chr22"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Mega Satan as Tainted Magdalene."
+  },
+  {
+    "id": "k80",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Wild Card",
+    "clean_name": "wildcard",
+    "number": "#80",
+    "quality": null,
+    "pickup_quote": "Again",
+    "type_label": "Consumable",
+    "description": "Copies the effect of the most recently used active item or consumable.",
+    "unlock": "Defeat Mega Satan as {{i|Tainted Eden}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "copy",
+      "mimic",
+      "uno"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k80",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Wild_Card",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c451",
+        "description": "No effect."
+      },
+      {
+        "target_id": "c286",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [
+      "chr30"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Mega Satan as Tainted Eden."
+  },
+  {
+    "id": "k81",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Soul of Isaac",
+    "clean_name": "soulofisaac",
+    "number": "#81",
+    "quality": null,
+    "pickup_quote": "Reroll... or not",
+    "type_label": "Rune",
+    "description": "Causes all item pedestals in the current room to cycle between the original item and an additional one.",
+    "unlock": "Defeat Hush and complete Boss Rush as {{i|Tainted Isaac}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "reroll",
+      "d6",
+      "soul",
+      "stone",
+      "pink"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k81",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Soul_of_Isaac",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [
+      "chr21"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Hush and complete Boss Rush as Tainted Isaac."
+  },
+  {
+    "id": "k82",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Soul of Magdalene",
+    "clean_name": "soulofmagdalene",
+    "number": "#82",
+    "quality": null,
+    "pickup_quote": "Give me your love!",
+    "type_label": "Rune",
+    "description": "For the rest of the room, causes enemies to drop Half Hearts upon death that disappear after 2 seconds.",
+    "unlock": "Defeat Hush and complete Boss Rush as {{i|Tainted Magdalene}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "red",
+      "heart",
+      "soul",
+      "stone"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k82",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Soul_of_Magdalene",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "5.10.2"
+    ],
+    "unlock_ref_ids": [
+      "chr22"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Hush and complete Boss Rush as Tainted Magdalene."
+  },
+  {
+    "id": "k83",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Soul of Cain",
+    "clean_name": "soulofcain",
+    "number": "#83",
+    "quality": null,
+    "pickup_quote": "Opens the unopenable",
+    "type_label": "Rune",
+    "description": "Opens all doors in the room, and creates Red Key rooms on all valid walls.\r\n\nWill destroy the entrance to the Mirrored World in Downpour / Dross II.",
+    "unlock": "Defeat Hush and complete Boss Rush as {{i|Tainted Cain}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "open",
+      "door",
+      "red",
+      "key",
+      "red",
+      "room",
+      "soul",
+      "stone",
+      "orange"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k83",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Soul_of_Cain",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c580"
+    ],
+    "unlock_ref_ids": [
+      "chr23"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Hush and complete Boss Rush as Tainted Cain."
+  },
+  {
+    "id": "k84",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Soul of Judas",
+    "clean_name": "soulofjudas",
+    "number": "#84",
+    "quality": null,
+    "pickup_quote": "Right behind you",
+    "type_label": "Rune",
+    "description": "Invokes the Dark Arts effect for 3 seconds, stopping time for 3 seconds and allowing Isaac to pass through enemies and projectiles, dealing damage to them and gaining a temporary damage bonus.",
+    "unlock": "Defeat Hush and complete Boss Rush as {{i|Tainted Judas}}.",
+    "base_stats": null,
+    "stat_changes": [
+      "Speed",
+      "Damage"
+    ],
+    "keywords": [
+      "dark",
+      "arts",
+      "soul",
+      "stone",
+      "red"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k84",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Soul_of_Judas",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c705"
+    ],
+    "unlock_ref_ids": [
+      "chr24"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Hush and complete Boss Rush as Tainted Judas."
+  },
+  {
+    "id": "k85",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Soul of ???",
+    "clean_name": "soulof???",
+    "number": "#85",
+    "quality": null,
+    "pickup_quote": "Chemical warfare",
+    "type_label": "Rune",
+    "description": "Causes 8 poison farts that leave damaging brown creep on the ground, then plants a trail of 7 Butt Bombs in quick succession.\r\n\nStanding on the creep grants +1.5 fire rate and +1 damage.\r\n\nThe creep deals Isaac's amount of damage at a very fast rate.",
+    "unlock": "Defeat Hush and complete Boss Rush as {{i|Tainted ???}}.",
+    "base_stats": null,
+    "stat_changes": [
+      "Fire rate",
+      "Damage"
+    ],
+    "keywords": [
+      "soul",
+      "of",
+      "blue",
+      "baby",
+      "poop",
+      "soul",
+      "stone"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k85",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Soul_of_%3F%3F%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c209"
+    ],
+    "unlock_ref_ids": [
+      "chr25"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Hush and complete Boss Rush as Tainted ???."
+  },
+  {
+    "id": "k86",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Soul of Eve",
+    "clean_name": "soulofeve",
+    "number": "#86",
+    "quality": null,
+    "pickup_quote": "Your very own murder",
+    "type_label": "Rune",
+    "description": "Spawns 14 Dead Bird familiars for the current room.",
+    "unlock": "Defeat Hush and complete Boss Rush as {{i|Tainted Eve}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "dead",
+      "bird",
+      "familiar",
+      "soul",
+      "stone",
+      "black"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k86",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Soul_of_Eve",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c117"
+    ],
+    "unlock_ref_ids": [
+      "chr26"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Hush and complete Boss Rush as Tainted Eve."
+  },
+  {
+    "id": "k87",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Soul of Samson",
+    "clean_name": "soulofsamson",
+    "number": "#87",
+    "quality": null,
+    "pickup_quote": "Slay a thousand",
+    "type_label": "Rune",
+    "description": "Grants the Berserk! ability for 10 seconds.",
+    "unlock": "Defeat Hush and complete Boss Rush as {{i|Tainted Samson}}.",
+    "base_stats": null,
+    "stat_changes": [
+      "Speed",
+      "Fire rate",
+      "Damage"
+    ],
+    "keywords": [
+      "berserk",
+      "soul",
+      "stone",
+      "red"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Collectible_Berserk!_appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/k87",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Soul_of_Samson",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c704"
+    ],
+    "unlock_ref_ids": [
+      "chr27"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Hush and complete Boss Rush as Tainted Samson."
+  },
+  {
+    "id": "k88",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Soul of Azazel",
+    "clean_name": "soulofazazel",
+    "number": "#88",
+    "quality": null,
+    "pickup_quote": "Demon rage!",
+    "type_label": "Rune",
+    "description": "Activates Mega Blast for 7.5 seconds.",
+    "unlock": "Defeat Hush and complete Boss Rush as {{i|Tainted Azazel}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "mega",
+      "blast",
+      "brimstone",
+      "soul",
+      "stone"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k88",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Soul_of_Azazel",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c441"
+    ],
+    "unlock_ref_ids": [
+      "chr28"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Hush and complete Boss Rush as Tainted Azazel."
+  },
+  {
+    "id": "k89",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Soul of Lazarus",
+    "clean_name": "souloflazarus",
+    "number": "#89",
+    "quality": null,
+    "pickup_quote": "Life after death",
+    "type_label": "Rune",
+    "description": "Kills and revives Isaac at half a heart in the same room, with some invincibility time.\r\n\nThe soul stone is automatically used upon taking fatal damage, essentially serving as an extra life.",
+    "unlock": "Defeat Hush and complete Boss Rush as {{i|Tainted Lazarus}}.",
+    "base_stats": null,
+    "stat_changes": [
+      "Extra lives"
+    ],
+    "keywords": [
+      "extra",
+      "life",
+      "revive",
+      "respawn",
+      "soul",
+      "stone",
+      "orange"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k89",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Soul_of_Lazarus",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 1 room"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [
+      "chr29"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Hush and complete Boss Rush as Tainted Lazarus."
+  },
+  {
+    "id": "k90",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Soul of Eden",
+    "clean_name": "soulofeden",
+    "number": "#90",
+    "quality": null,
+    "pickup_quote": "Embrace chaos",
+    "type_label": "Rune",
+    "description": "Activates the effects of The D6 and D20, but rerolled items are pulled from random item pools.",
+    "unlock": "Defeat Hush and complete Boss Rush as {{i|Tainted Eden}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "d6",
+      "d20",
+      "chaos",
+      "reroll",
+      "die",
+      "dice",
+      "rainbow",
+      "soul",
+      "stone"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k90",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Soul_of_Eden",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c105",
+      "c166"
+    ],
+    "unlock_ref_ids": [
+      "chr30"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Hush and complete Boss Rush as Tainted Eden."
+  },
+  {
+    "id": "k91",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Soul of the Lost",
+    "clean_name": "soulofthelost",
+    "number": "#91",
+    "quality": null,
+    "pickup_quote": "Leave your body behind",
+    "type_label": "Rune",
+    "description": "Isaac dies and visually turns into The Lost, with all of his benefits and weaknesses, until leaving the room.\n\nThis allows Isaac to take a Devil Deal for free, take one free hit due to the Holy Mantle, and enter the Mausoleum / Gehenna door for free.",
+    "unlock": "Defeat Hush and complete Boss Rush as {{i|Tainted Lost}}.",
+    "base_stats": null,
+    "stat_changes": [
+      "Flight"
+    ],
+    "keywords": [
+      "soul",
+      "stone",
+      "white",
+      "cross",
+      "flight"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k91",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Soul_of_the_Lost",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "chr10",
+      "c313"
+    ],
+    "unlock_ref_ids": [
+      "chr31"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Hush and complete Boss Rush as Tainted Lost."
+  },
+  {
+    "id": "k92",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Soul of Lilith",
+    "clean_name": "souloflilith",
+    "number": "#92",
+    "quality": null,
+    "pickup_quote": "Motherhood",
+    "type_label": "Rune",
+    "description": "Grants a permanent passive item familiar from the Baby Shop item pool.",
+    "unlock": "Defeat Hush and complete Boss Rush as {{i|Tainted Lilith}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "baby",
+      "shop",
+      "familiar",
+      "soul",
+      "stone",
+      "red"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k92",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Soul_of_Lilith",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 12 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [
+      "chr32"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Hush and complete Boss Rush as Tainted Lilith."
+  },
+  {
+    "id": "k93",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Soul of the Keeper",
+    "clean_name": "soulofthekeeper",
+    "number": "#93",
+    "quality": null,
+    "pickup_quote": "$$$",
+    "type_label": "Rune",
+    "description": "Spawns 1-25 random coins.",
+    "unlock": "Defeat Hush and complete Boss Rush as {{i|Tainted Keeper}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "coin",
+      "money",
+      "shop",
+      "soul",
+      "stone",
+      "gray",
+      "grey"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k93",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Soul_of_the_Keeper",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 12 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [
+      "chr33"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Hush and complete Boss Rush as Tainted Keeper."
+  },
+  {
+    "id": "k94",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Soul of Apollyon",
+    "clean_name": "soulofapollyon",
+    "number": "#94",
+    "quality": null,
+    "pickup_quote": "Bringer of calamity",
+    "type_label": "Rune",
+    "description": "Spawns 15 random 7 Seals locusts.",
+    "unlock": "Defeat Hush and complete Boss Rush as {{i|Tainted Apollyon}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "abyss",
+      "locust",
+      "soul",
+      "stone"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k94",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Soul_of_Apollyon",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c526"
+    ],
+    "unlock_ref_ids": [
+      "chr34"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Hush and complete Boss Rush as Tainted Apollyon."
+  },
+  {
+    "id": "k95",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Soul of the Forgotten",
+    "clean_name": "souloftheforgotten",
+    "number": "#95",
+    "quality": null,
+    "pickup_quote": "Skeletal protector",
+    "type_label": "Rune",
+    "description": "Spawns The Forgotten as a temporary secondary character, that can be controlled by the same inputs as Isaac, and dies if his 3 Bone Hearts run out, or Isaac leaves the room.",
+    "unlock": "Defeat Hush and complete Boss Rush as {{i|Tainted Forgotten}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "soul",
+      "stone",
+      "blue"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k95",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Soul_of_the_Forgotten",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "chr16"
+    ],
+    "unlock_ref_ids": [
+      "chr35"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Hush and complete Boss Rush as Tainted Forgotten."
+  },
+  {
+    "id": "k96",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Soul of Bethany",
+    "clean_name": "soulofbethany",
+    "number": "#96",
+    "quality": null,
+    "pickup_quote": "Friends from beyond",
+    "type_label": "Rune",
+    "description": "Spawns 6 random Book of Virtues wisps.",
+    "unlock": "Defeat Hush and complete Boss Rush as {{i|Tainted Bethany}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "book",
+      "of",
+      "virtues",
+      "wisps",
+      "blue",
+      "soul",
+      "stone"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k96",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Soul_of_Bethany",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c584"
+    ],
+    "unlock_ref_ids": [
+      "chr36"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Hush and complete Boss Rush as Tainted Bethany."
+  },
+  {
+    "id": "k97",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "card",
+    "name": "Soul of Jacob and Esau",
+    "clean_name": "soulofjacobandesau",
+    "number": "#97",
+    "quality": null,
+    "pickup_quote": "Bound by blood",
+    "type_label": "Rune",
+    "description": "Spawns Esau as a temporary secondary character, that can be controlled by the same inputs as Isaac, and dies if his health runs out, or Isaac leaves the room.\n\nEsau receives items equal to the number of items Isaac has, each based on the pool of the items Isaac's were obtained from.",
+    "unlock": "Defeat Hush and complete Boss Rush as {{i|Tainted Jacob}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "red",
+      "soul",
+      "stone"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/k97",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Soul_of_Jacob_and_Esau",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c263",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "chr19"
+    ],
+    "unlock_ref_ids": [
+      "chr37"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Hush and complete Boss Rush as Tainted Jacob."
+  },
+  {
+    "id": "p0",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Bad Gas",
+    "clean_name": "badgas",
+    "number": "#0",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1+\nMinor, situational\nPositive effect",
+    "description": "Isaac farts, dealing 5 damage and poisoning nearby enemies.\r\n\nThe poison deals Isaac's amount of damage for 6 ticks.\r\n\nHorse pill: The fart affects the entire room.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "poison",
+      "toxic",
+      "fart"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p0",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Bad_Gas",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 1 room"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p1",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Bad Trip",
+    "clean_name": "badtrip",
+    "number": "#1",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 2-\nMedium, significant impact\nNegative effect",
+    "description": "Deals a full heart of damage to Isaac.\r\n\nThis damage doesn't affect the Devil Deal chance.\r\n\nIf Isaac would die from this damage, the pill instead converts to Full Health.\r\n\nHorse pill: Deals 2 full hearts of damage.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "damage",
+      "hurt",
+      "full",
+      "health"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p1",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Bad_Trip",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "p5"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p2",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Balls of Steel",
+    "clean_name": "ballsofsteel",
+    "number": "#2",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 2+\nMedium, significant impact\nPositive effect",
+    "description": "+2 Soul Hearts.\r\n\nHorse pill: +4 Soul Hearts.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "soul",
+      "heart"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p2",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Balls_of_Steel",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 12 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p3",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Bombs are Key",
+    "clean_name": "bombsarekey",
+    "number": "#3",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 2\nMedium, significant impact\nNeutral effect",
+    "description": "Swaps Isaac's keys and bombs.\r\n\nAlso swaps his Golden Bomb and Golden Key.\r\n\nAs Tainted ???, swaps poops and keys.\r\n\nHorse pill: Increases the amount of bombs and keys by 50% when swapping.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Bombs",
+      "Keys"
+    ],
+    "keywords": [],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p3",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Bombs_are_Key",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 1 room"
+      }
+    ],
+    "referenced_ids": [
+      "chr25"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p4",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Explosive Diarrhea",
+    "clean_name": "explosivediarrhea",
+    "number": "#4",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1\nMinor, situational\nNeutral effect",
+    "description": "Spawns 5 active bombs behind Isaac, one per half a second.\r\n\nHorse pill: Spawns 8 active bombs that have the Mr. Mega and Bobby-Bomb upgrades.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "fart",
+      "poop",
+      "diarea",
+      "diarhea"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p4",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Explosive_Diarrhea",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c106",
+      "c125"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p5",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Full Health",
+    "clean_name": "fullhealth",
+    "number": "#5",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 2+\nMedium, significant impact\nPositive effect",
+    "description": "Fully heals Isaac.\r\n\nHorse pill: Additionally grants +3 Soul Hearts.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "heart"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p5",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Full_Health",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 12 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p6",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Health Down",
+    "clean_name": "healthdown",
+    "number": "#6",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 3-\nMajor, permanent effect\nNegative effect",
+    "description": "-1 Red Heart container.\r\n\nIf Isaac has one or less red heart containers, the pill instead turns into Health Up.\r\n\nHorse pill: Removes 2 Red Heart conatiners.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Health"
+    ],
+    "keywords": [],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p6",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Health_Down",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "p7"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p7",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Health Up",
+    "clean_name": "healthup",
+    "number": "#7",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 3+\nMajor, permanent effect\nPositive effect",
+    "description": "+1 empty Red Heart container.\r\n\nHorse pill: Adds 2 empty Red Heart containers.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Health"
+    ],
+    "keywords": [],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p7",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Health_Up",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p8",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "I Found Pills",
+    "clean_name": "ifoundpills",
+    "number": "#8",
+    "quality": null,
+    "pickup_quote": "...and ate them",
+    "type_label": "Pill",
+    "description": "No effect, purely cosmetic.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/IFoundPills.gif",
+    "guru_url": "https://isaacguru.com/wiki/isaac/p8",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/I_Found_Pills",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 1 room"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p9",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Puberty",
+    "clean_name": "puberty",
+    "number": "#9",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill",
+    "description": "No effect, purely cosmetic.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "adult",
+      "hair"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Puberty.gif",
+    "guru_url": "https://isaacguru.com/wiki/isaac/p9",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Puberty",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [
+      "tr11"
+    ],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 1 room"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p10",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Pretty Fly",
+    "clean_name": "prettyfly",
+    "number": "#10",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 2+\nMedium, significant impact\nPositive effect",
+    "description": "Spawns a permanent fly orbital that blocks projectiles and instantly kills certain fly-type enemies.\r\n\nUp to 3 flies can be obtained.\r\n\nHorse pill: Spawns a Big Fan familiar, with no upper limit.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p10",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Pills#Pretty_Fly",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c279"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p11",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Range Down",
+    "clean_name": "rangedown",
+    "number": "#11",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 3-\nMajor, permanent effect\nNegative effect",
+    "description": "-1 range.\r\n\nHorse pill: -2 range.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Range"
+    ],
+    "keywords": [],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p11",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Range_Down",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p12",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Range Up",
+    "clean_name": "rangeup",
+    "number": "#12",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 3+\nMajor, permanent effect\nPositive effect",
+    "description": "+1.25 range.\r\n\nHorse pill: +2.5 range.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Range"
+    ],
+    "keywords": [],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p12",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Range_Up",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p13",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Speed Down",
+    "clean_name": "speeddown",
+    "number": "#13",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 3-\nMajor, permanent effect\nNegative effect",
+    "description": "-0.12 speed.\r\n\nHorse pill: -0.24 speed.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Speed"
+    ],
+    "keywords": [],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p13",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Speed_Down",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p14",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Speed Up",
+    "clean_name": "speedup",
+    "number": "#14",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 3+\nMajor, permanent effect\nPositive effect",
+    "description": "+0.15 speed.\r\n\nHorse pill: +0.3 speed.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Speed"
+    ],
+    "keywords": [],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p14",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Speed_Up",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p15",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Tears Down",
+    "clean_name": "tearsdown",
+    "number": "#15",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 3-\nMajor, permanent effect\nNegative effect",
+    "description": "-0.28 tears.\r\n\nHorse pill: -0.56 tears.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Tears"
+    ],
+    "keywords": [],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p15",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Tears_Down",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p16",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Tears Up",
+    "clean_name": "tearsup",
+    "number": "#16",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 3+\nMajor, permanent effect\nPositive effect",
+    "description": "+0.35 tears.\r\n\nHorse pill: +0.7 tears.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Tears"
+    ],
+    "keywords": [],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p16",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Tears_Up",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p17",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Luck Down",
+    "clean_name": "luckdown",
+    "number": "#17",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 3-\nMajor, permanent effect\nNegative effect",
+    "description": "-1 luck.\r\n\nHorse pill: -2 luck.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Luck"
+    ],
+    "keywords": [],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p17",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Luck_Down",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p18",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Luck Up",
+    "clean_name": "luckup",
+    "number": "#18",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 3+\nMajor, permanent effect\nPositive effect",
+    "description": "+1 luck.\r\n\nHorse pill: +2 luck.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Luck"
+    ],
+    "keywords": [],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p18",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Luck_Up",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p19",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Telepills",
+    "clean_name": "telepills",
+    "number": "#19",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1\nMinor, situational\nNeutral effect",
+    "description": "Teleports Isaac to a random room.\r\n\nHas a small chance to teleport to the I AM ERROR room, and a small chance for the Black Market.\r\n\nWhen used in the mirrored version of Downpour / Dross II, has a chance to teleport to the Ultra Secret Room.\r\n\nHorse pill: Guarantees a teleport to a special room.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "teleport"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p19",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Telepills",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 1 room"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p20",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "48 Hour Energy!",
+    "clean_name": "48hourenergy",
+    "number": "#20",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 2+\nMedium, significant impact\nPositive effect",
+    "description": "Fully recharges Isaac's active item.\r\n\nSpawns a Lil' Battery.\r\n\nHas a chance to spawn an additional Micro Battery.\r\n\nHorse pill: Spawns 3-4 Lil' Batteries.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "battery",
+      "recharge"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p20",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/48_Hour_Energy!",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 12 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "5.90.1",
+      "5.90.2"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p21",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Hematemesis",
+    "clean_name": "hematemesis",
+    "number": "#21",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 2\nMedium, significant impact\nNeutral effect",
+    "description": "Empties all but 1 red heart container and spawns 1-4 Hearts.\r\n\nIf Isaac has only half a heart left, it will heal him to 1 heart.\r\n\nHorse pill: Spawns 4-7 Hearts.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "red",
+      "heart"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p21",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Hematemesis",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "5.10.1"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p22",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Paralysis",
+    "clean_name": "paralysis",
+    "number": "#22",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1-\nMinor, situational\nNegative effect",
+    "description": "Prevents Isaac from moving and shooting for 2 seconds.\r\n\nHorse pill: The effect lasts for 4 seconds.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "freeze"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p22",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Paralysis",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p23",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "I can see forever!",
+    "clean_name": "icanseeforever",
+    "number": "#23",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 2+\nMedium, significant impact\nPositive effect",
+    "description": "Opens all Secret Room and Super Secret Room entrances for the current floor.\r\n\nHorse pill: Grants the effects of The Mind, fully revealing the map.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "map",
+      "secret",
+      "room"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p23",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/I_can_see_forever!",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c333"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p24",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Pheromones",
+    "clean_name": "pheromones",
+    "number": "#24",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1+\nMinor, situational\nPositive effect",
+    "description": "Charms all enemies in the room for 5 seconds.\r\n\nHorse pill: Permanently charms all enemies in the room, turning them friendly, and allowing them to be carried across rooms.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "pink",
+      "charm"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p24",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Pheromones",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p25",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Amnesia",
+    "clean_name": "amnesia",
+    "number": "#25",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 2-\nMedium, significant impact\nNegative effect",
+    "description": "Grants Curse of the Lost! for the rest of the floor, hiding the floor map.\r\n\nHorse pill: Unidentifies all previously identified pills.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "curse",
+      "of",
+      "the",
+      "lost"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p25",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Amnesia",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "crs3"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p26",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Lemon Party",
+    "clean_name": "lemonparty",
+    "number": "#26",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1+\nMinor, situational\nPositive effect",
+    "description": "Spawns a large yellow pool that deals 8 damage per tick (24 per seconds) to enemies touching it.\r\n\nThe creep lasts for 10 seconds.\r\n\nHorse pill: The creep is much larger and covers nearly the entire room.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "yellow",
+      "creep"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p26",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Lemon_Party",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p27",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "R U A Wizard?",
+    "clean_name": "ruawizard?",
+    "number": "#27",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1-\nMinor, situational\nNegative effect",
+    "description": "Causes Isaac's tears to be shot diagonally for 30 seconds, making it much harder to aim.\r\n\nHorse pill: The effect lasts for 60 seconds.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p27",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/R_U_A_Wizard%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p28",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Percs!",
+    "clean_name": "percs",
+    "number": "#28",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1+\nMinor, situational\nPositive effect",
+    "description": "Gives The Wafer effect for the current room, reducing all damage taken to half a heart.\r\n\nHorse pill: Fully heals Isaac.",
+    "unlock": "Complete challenge #24: {{chal|PAY TO PLAY}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "wafer"
+    ],
+    "added_in": "Afterbirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/wafer.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/p28",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Percs!",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c108"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "PAY TO PLAY"
+    ],
+    "unlock_text": "Complete challenge #24: PAY TO PLAY."
+  },
+  {
+    "id": "p29",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Addicted!",
+    "clean_name": "addicted",
+    "number": "#29",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1-\nMinor, situational\nNegative effect",
+    "description": "Makes Isaac take a full heart of damage from all sources in the current room.\r\n\nHorse pill: Grants a Broken Heart.",
+    "unlock": "Complete challenge #24: {{chal|PAY TO PLAY}}.",
+    "base_stats": null,
+    "stat_changes": [
+      "Health"
+    ],
+    "keywords": [
+      "double",
+      "damage"
+    ],
+    "added_in": "Afterbirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Collectible_G_FUEL!_appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/p29",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Addicted!",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "PAY TO PLAY"
+    ],
+    "unlock_text": "Complete challenge #24: PAY TO PLAY."
+  },
+  {
+    "id": "p30",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Re-Lax",
+    "clean_name": "relax",
+    "number": "#30",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill",
+    "description": "Causes Isaac to spawn poop for a short amount of time while moving.\r\n\nHorse pill: The effect lasts for much longer.",
+    "unlock": "Complete challenge #25: {{chal|Have a Heart}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "fart",
+      "poop"
+    ],
+    "added_in": "Afterbirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p30",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Re-Lax",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "Have a Heart"
+    ],
+    "unlock_text": "Complete challenge #25: Have a Heart."
+  },
+  {
+    "id": "p31",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "???",
+    "clean_name": "???",
+    "number": "#31",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1-\nMinor, situational\nNegative effect",
+    "description": "Grants Curse of the Maze! for the rest of the floor.\r\n\nHorse pill: Grants an additional curse with each use.",
+    "unlock": "Complete challenge #25: {{chal|Have a Heart}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "curse",
+      "of",
+      "the",
+      "maze"
+    ],
+    "added_in": "Afterbirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Collectible_Blue_Cap_appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/p31",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Pills#%3F%3F%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "crs6"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [
+      "Have a Heart"
+    ],
+    "unlock_text": "Complete challenge #25: Have a Heart."
+  },
+  {
+    "id": "p32",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "One makes you larger",
+    "clean_name": "onemakesyoularger",
+    "number": "#32",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1\nMinor, situational\nNeutral effect",
+    "description": "+25% size. Does not affect the hitbox.\r\n\nDecreases the pitch of Isaac's voice.\r\n\nHorse pill: Increases Isaac's size twice.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Size"
+    ],
+    "keywords": [
+      "big",
+      "stompy"
+    ],
+    "added_in": "Afterbirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p32",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/One_makes_you_larger",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [
+      "tr13"
+    ],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p33",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "One makes you small",
+    "clean_name": "onemakesyousmall",
+    "number": "#33",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1\nMinor, situational\nNeutral effect",
+    "description": "-20% size.\r\n\n-14.6% hitbox size.\r\n\nIncreases the pitch of Isaac's voice.\r\n\nHorse pill: Decreases Isaac's size twice.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Size"
+    ],
+    "keywords": [],
+    "added_in": "Afterbirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p33",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/One_makes_you_small",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p34",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Infested!",
+    "clean_name": "infested",
+    "number": "#34",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1+\nMinor, situational\nPositive effect",
+    "description": "Destroys all poop in the room and spawns a Blue Spider from each of them.\r\n\nHorse pill: Spawns 2 Blue Spiders per poop destroyed.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "blue",
+      "spider",
+      "poop"
+    ],
+    "added_in": "Afterbirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p34",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Infested!",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p35",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Infested?",
+    "clean_name": "infested?",
+    "number": "#35",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1+\nMinor, situational\nPositive effect",
+    "description": "Spawns a Blue Spider for each enemy in the room.\r\n\nIf there are no enemies in the room, spawns 1-3 Blue Spiders.\r\n\nHorse pill: Doubles the number of spiders spawned.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "blue",
+      "spider"
+    ],
+    "added_in": "Afterbirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p35",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Infested%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 2 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p36",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Power Pill!",
+    "clean_name": "powerpill",
+    "number": "#36",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1+\nMinor, situational\nPositive effect",
+    "description": "Grants the effects of The Gamekid.\r\n\nHorse pill: Also grants Huge Growth while the effect is active.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Damage",
+      "Range",
+      "Size"
+    ],
+    "keywords": [
+      "gamekid",
+      "shield",
+      "protec",
+      "pacman"
+    ],
+    "added_in": "Afterbirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p36",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Power_Pill!",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [
+      "c93",
+      "k52"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p37",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Retro Vision",
+    "clean_name": "retrovision",
+    "number": "#37",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1-\nMinor, situational\nNegative effect",
+    "description": "Pixelates the screen and degrades colors for 30 seconds.\r\n\nHorse pill: The effect lasts for 90 seconds.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "pixelated",
+      "filter"
+    ],
+    "added_in": "Afterbirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p37",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Retro_Vision",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p38",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Friends Till The End!",
+    "clean_name": "friendstilltheend",
+    "number": "#38",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1+\nMinor, situational\nPositive effect",
+    "description": "Spawns 3 Blue Flies.\r\n\nHorse pill: Spawns 12 Blue Flies.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "blue",
+      "fly"
+    ],
+    "added_in": "Afterbirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p38",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Friends_Till_The_End!",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 1 room"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p39",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "X-Lax",
+    "clean_name": "xlax",
+    "number": "#39",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 0-\nJoke\nNegative effect",
+    "description": "Spawns a pool of slippery brown creep that lasts for 5 seconds.\r\n\nHorse pill: The creep lasts for 30 seconds.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "slippery",
+      "brown",
+      "creep"
+    ],
+    "added_in": "Afterbirth+",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p39",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/X-Lax",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 1 room"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p40",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Something's wrong...",
+    "clean_name": "somethingswrong",
+    "number": "#40",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 0+\nJoke\nPositive effect",
+    "description": "Spawns a pool of slowing black creep that lasts for 5 seconds.\r\n\nHorse pill: The creep lasts for 30 seconds.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "slowing",
+      "black",
+      "creep"
+    ],
+    "added_in": "Afterbirth+",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p40",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Something's_wrong...",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 1 room"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p41",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "I'm Drowsy...",
+    "clean_name": "imdrowsy",
+    "number": "#41",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1\nMinor, situational\nNeutral effect",
+    "description": "Slows down Isaac for the rest of the room, and applies slowness to enemies and their shots.\r\n\nAlso affects Isaac's rate of fire and the background music.\r\n\nHorse pill: The effect is applied for the entire floor.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "stop",
+      "watch",
+      "stopwatch",
+      "slow"
+    ],
+    "added_in": "Afterbirth+",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p41",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/I'm_Drowsy...",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p42",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "I'm Excited!!!",
+    "clean_name": "imexcited",
+    "number": "#42",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1\nMinor, situational\nNeutral effect",
+    "description": "Increases the speed of all enemies and Isaac for the rest of the room.\r\n\nAlso affects Isaac's rate of fire and the background music.\r\n\nThe effect triggers again randomly 3 additional times. This can happen on other floors as well.\r\n\nHorse pill: The effect is applied for the entire floor.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "speed"
+    ],
+    "added_in": "Afterbirth+",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p42",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/I'm_Excited!!!",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p43",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Gulp!",
+    "clean_name": "gulp",
+    "number": "#43",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 2+\nMedium, significant impact\nPositive effect",
+    "description": "Absorbs Isaac's currently held trinket(s), applying their effects permanently.\r\n\nHorse pill: Makes the absorbed trinket golden.",
+    "unlock": "Complete a Victory Lap.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "smelter"
+    ],
+    "added_in": "Afterbirth+",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p43",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Gulp!",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Complete a Victory Lap."
+  },
+  {
+    "id": "p44",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Horf!",
+    "clean_name": "horf",
+    "number": "#44",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill",
+    "description": "Causes Isaac to shoot an explosive tear with the Ipecac effect that does 200 damage.\r\n\nHorse pill: Shoots 6 explosive tears at once, each dealing 150-400 damage.",
+    "unlock": "Participate in a total of 31 Daily Challenges.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "ipecac",
+      "explosive",
+      "shot"
+    ],
+    "added_in": "Afterbirth+",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p44",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Horf!",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 1 room"
+      }
+    ],
+    "referenced_ids": [
+      "c149"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Participate in a total of 31 Daily Challenges."
+  },
+  {
+    "id": "p45",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Feels like I'm walking on sunshine!",
+    "clean_name": "feelslikeimwalkingonsunshine",
+    "number": "#45",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1+\nMinor, situational\nPositive effect",
+    "description": "Grants the effects of Unicorn Stump.\r\n\nHorse pill: Instead grants the effects of The Gamekid.",
+    "unlock": "Collect every entry in the Bestiary.",
+    "base_stats": null,
+    "stat_changes": [
+      "Speed"
+    ],
+    "keywords": [
+      "unicorn",
+      "stump"
+    ],
+    "added_in": "Afterbirth+",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p45",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Feels_like_I'm_walking_on_sunshine!",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 1 room"
+      }
+    ],
+    "referenced_ids": [
+      "c298",
+      "c93"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Collect every entry in the Bestiary."
+  },
+  {
+    "id": "p46",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Vurp!",
+    "clean_name": "vurp",
+    "number": "#46",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 2+\nMedium, significant impact\nPositive effect",
+    "description": "Throws up the last pill used.\r\n\nIf no pill has been used yet, or Vurp! has been the last pill used, it will spawn itself instead.\r\n\nHorse pill: Converts the last used pill into a Horse Pill.",
+    "unlock": "Obtain 50 items in a single run.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "throw",
+      "up"
+    ],
+    "added_in": "Afterbirth+",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p46",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Vurp!",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Obtain 50 items in a single run."
+  },
+  {
+    "id": "p47",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Shot Speed Down",
+    "clean_name": "shotspeeddown",
+    "number": "#47",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1-\nMinor, situational\nNegative effect",
+    "description": "-0.15 shot speed.\r\n\nHorse pill: -0.3 shot speed.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Shotspeed"
+    ],
+    "keywords": [],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p47",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Shot_Speed_Down",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 4 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p48",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Shot Speed Up",
+    "clean_name": "shotspeedup",
+    "number": "#48",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 1+\nMinor, situational\nPositive effect",
+    "description": "+0.15 shot speed.\r\n\nHorse pill: +0.3 shot speed.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Shotspeed"
+    ],
+    "keywords": [],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p48",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Shot_Speed_Up",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 6 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "p49",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "pilleffect",
+    "name": "Experimental Pill",
+    "clean_name": "experimentalpill",
+    "number": "#49",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill\nClass: 3\nMajor, permanent effect\nNeutral effect",
+    "description": "Increases a random stat and decreases another, with the same power as normal stat up/down pills.\r\n\nIf Isaac can only obtain positive pills, it won't decrease a stat, but only increase one. Similarly, if he can only obtain negative pills, will only decrease one stat.\r\n\nHorse pill: The 2 effects are doubled in power.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [
+      "Health",
+      "Speed",
+      "Tears",
+      "Range",
+      "Shotspeed",
+      "Luck"
+    ],
+    "keywords": [],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/p49",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Experimental_Pill",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c348",
+        "description": "Mimic recharge time: 3 rooms"
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "5.70.14",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": null,
+    "name": "Golden Pill",
+    "clean_name": "goldenpill",
+    "number": "#5.70.14",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill",
+    "description": "Activates the effects of a random pill that is not present in the run's pill pool.\n\nCan be used multiple times, but has a chance to disappear when used.",
+    "unlock": "Defeat Mega Satan as {{i|Tainted Cain}}.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "gold",
+      "pill"
+    ],
+    "added_in": "Repentance",
+    "animated": true,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/5.70.14",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Pills#Gold_Pills",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [],
+    "referenced_ids": [],
+    "unlock_ref_ids": [
+      "chr23"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Mega Satan as Tainted Cain."
+  },
+  {
+    "id": "5.70.2062",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": null,
+    "name": "Golden Horse Pill",
+    "clean_name": "goldenhorsepill",
+    "number": "#5.70.2062",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Pill",
+    "description": "Activates the effects of a random horse pill that is not present in the run's pill pool.\n\nCan be used multiple times, but has a chance to disappear when used.",
+    "unlock": "Defeat Mega Satan as {{i|Tainted Cain}}, and have regular Horse Pills unlocked.",
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "gold",
+      "pill"
+    ],
+    "added_in": "Repentance",
+    "animated": true,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/5.70.2062",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Pills#Gold_Pills",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [],
+    "referenced_ids": [],
+    "unlock_ref_ids": [
+      "chr23"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Mega Satan as Tainted Cain, and have regular Horse Pills unlocked."
+  },
+  {
+    "id": "5.300.32768",
+    "mod": "isaac",
+    "category": "consumable",
+    "type": "passive",
+    "name": "Item Card",
+    "clean_name": "itemcard",
+    "number": "#5.300.32768",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Card",
+    "description": "Only available during the Cantripped! challenge.\r\n\nGrants an active item in the consumable slot based on the card's internal id.\r\n\nCan be replaced by obtaining a different Item Card, which will replace the currently selected active item in the consumable slot.\r\n\nHas a 20% chance to drop when killing enemies during the challenge, and drops upon each room clear.\r\n\nReplaces all item pedestals when they appear.",
+    "unlock": null,
+    "base_stats": null,
+    "stat_changes": [],
+    "keywords": [
+      "cantripped!"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": null,
+    "guru_url": "https://isaacguru.com/wiki/isaac/5.300.32768",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Cantripped!",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  }
+]

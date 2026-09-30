@@ -1,0 +1,1962 @@
+[
+  {
+    "id": "chr0",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Isaac",
+    "clean_name": "isaac",
+    "number": "#0",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Character",
+    "description": "(1.00)\n(2.73)\n(3.50)\n(6.50)\n(1.00)\n(0.00)\n\n0 coins,\n1 bomb,\n0 keys.\n\nStarting items\nThe D6 once unlocked.",
+    "unlock": null,
+    "base_stats": {
+      "speed": 1,
+      "tears": 2.73,
+      "damage": 3.5,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Isaac_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr0",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Isaac",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "More options\n\nNew item pedestals cycle between 2 options."
+      }
+    ],
+    "referenced_ids": [
+      "c105"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "chr1",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Magdalene",
+    "clean_name": "magdalene",
+    "number": "#1",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Character",
+    "description": "(0.85)\n(2.73)\n(3.50)\n(6.50)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nYum Heart\r\n\nFull Health after completing the Aprils fool challenge. This guarantees both Full Health and Health Up to be in the run's pill rotation.",
+    "unlock": "Have 7 or more Red Heart containers at one time.",
+    "base_stats": {
+      "speed": 0.85,
+      "tears": 2.73,
+      "damage": 3.5,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "maggie",
+      "golden",
+      "hair",
+      "yellow",
+      "hair",
+      "girl",
+      "woman"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Magdalene_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr1",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Magdalene",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Limit breaker + HP up\n\nGrants +1 Full Red Heart Container.\r\n\nIncreases the maximum heart containers limit to 18."
+      }
+    ],
+    "referenced_ids": [
+      "c45",
+      "p5",
+      "p7"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Have 7 or more Red Heart containers at one time."
+  },
+  {
+    "id": "chr2",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Cain",
+    "clean_name": "cain",
+    "number": "#2",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Character",
+    "description": "(1.30)\n(2.73)\n(4.20; ×1.2)\n(4.50)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n1 key.\n\nStarting items\nLucky Foot\r\n\nPaper Clip after donating 68 coins to the Greed Donation Machine.\r\n\nDescription\n\r\nCan only shoot tears from his right eye.",
+    "unlock": "Hold 55!c! at once.",
+    "base_stats": {
+      "speed": 1.3,
+      "tears": 2.73,
+      "damage": 4.2,
+      "range": 4.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "patch",
+      "lucky"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Cain_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr2",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Cain",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Better arcades + luck up\n\n+1 luck.\r\n\nCauses all floors to contain an upgraded Arcade."
+      }
+    ],
+    "referenced_ids": [
+      "c46",
+      "t19",
+      "6.11"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Hold 55!c! at once."
+  },
+  {
+    "id": "chr3",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Judas",
+    "clean_name": "judas",
+    "number": "#3",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Character",
+    "description": "(1.00)\n(2.73)\n(4.72; ×1.35)\n(6.50)\n(1.00)\n(0.00)\n\n3 coins,\n0 bombs,\n0 keys.\n\nStarting items\nThe Book of Belial",
+    "unlock": "Defeat Satan.",
+    "base_stats": {
+      "speed": 1,
+      "tears": 2.73,
+      "damage": 4.72,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "book",
+      "of",
+      "belial",
+      "fez"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Judas_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr3",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Judas",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Belial incarnate\n\nConverts The Book of Belial into a passive item that can be held alongside another active item. This variant synergizes differently with certain active items. For more details, check the synergies section in active item description boxes."
+      }
+    ],
+    "referenced_ids": [
+      "c34"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Satan."
+  },
+  {
+    "id": "chr4",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "???",
+    "clean_name": "???",
+    "number": "#4",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Character",
+    "description": "(1.10)\n(2.73)\n(3.67; ×1.05)\n(6.50)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nThe Poop\r\n\nDescription\n\r\nCannot have Red Heart containers. Any item that gives Red Heart containers will grant a Soul Heart instead.\r\n\nDevil Deal items cost the same amount of Soul Hearts as they would cost Red Hearts, unlike with other characters that have no Red Hearts.\r\n\nDestroying poop will spawn a Blue Fly.",
+    "unlock": "Defeat Mom's Heart 10 times.",
+    "base_stats": {
+      "speed": 1.1,
+      "tears": 2.73,
+      "damage": 3.67,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "blue",
+      "baby",
+      "poop"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Blue_Baby_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr4",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/%3F%3F%3F_(Character)",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Stronger spirit\n\nDoubles any Soul Hearts gained from health up items."
+      }
+    ],
+    "referenced_ids": [
+      "c36",
+      "5.10.3"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Mom's Heart 10 times."
+  },
+  {
+    "id": "chr5",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Eve",
+    "clean_name": "eve",
+    "number": "#5",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Character",
+    "description": "(1.23)\n(2.73)\n(2.62; ×0.75)\n(6.50)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nWhore of Babylon\r\n\nDead Bird\r\n\nRazor Blade after donating 439 coins to the Greed Donation Machine.\r\n\nDescription\n\r\nThe Whore of Babylon and Dead Bird effects activate when Eve has 1 Red Heart remaining, rather than activating at half a heart. This also sets her damage multiplier to x1.",
+    "unlock": "Complete 2 floors in a row without picking up any hearts.",
+    "base_stats": {
+      "speed": 1.23,
+      "tears": 2.73,
+      "damage": 2.62,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "whore",
+      "of",
+      "babylon"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Eve_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr5",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Eve",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Forever cursed\n\nBoth Whore of Babylon and Dead Bird are active all the time, regardless of health and damage taken."
+      }
+    ],
+    "referenced_ids": [
+      "c122",
+      "c117",
+      "c126",
+      "6.11"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Complete 2 floors in a row without picking up any hearts."
+  },
+  {
+    "id": "chr6",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Samson",
+    "clean_name": "samson",
+    "number": "#6",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Character",
+    "description": "(1.10)\n(2.50)\n(3.50)\n(5.00)\n(1.31)\n(0.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nBloody Lust\r\n\nChild's Heart after completing the Ultra hard challenge.",
+    "unlock": "Complete 2 floors in a row without taking damage.",
+    "base_stats": {
+      "speed": 1.1,
+      "tears": 2.5,
+      "damage": 3.5,
+      "range": 5,
+      "shot_speed": 1.31,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "bloody",
+      "lust"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Samson_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr6",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Samson",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Rage up\n\nAllows Bloody Lust to gain 4 more damage boosts at +0.2 intervals."
+      }
+    ],
+    "referenced_ids": [
+      "c157",
+      "t34"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Complete 2 floors in a row without taking damage."
+  },
+  {
+    "id": "chr7",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Azazel",
+    "clean_name": "azazel",
+    "number": "#7",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Character",
+    "description": "(1.25)\n(0.86; ×0.267)\n(5.25; ×1.5)\n(4.50)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\n0 - The Fool\r\n\nDescription\n\r\nShoots a short-ranged Brimstone which deals damage 8 times per second instead of tears.\r\n\nHas the ability to fly.",
+    "unlock": "Make 3 deals with the devil in one run.",
+    "base_stats": {
+      "speed": 1.25,
+      "tears": 0.86,
+      "damage": 5.25,
+      "range": 4.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [
+      "Flight"
+    ],
+    "keywords": [
+      "black",
+      "demon"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Azazel_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr7",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Azazel",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Wide Breath\n\nDoubles the width of the laser."
+      }
+    ],
+    "referenced_ids": [
+      "k1",
+      "c118"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Make 3 deals with the devil in one run."
+  },
+  {
+    "id": "chr8",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Lazarus",
+    "clean_name": "lazarus",
+    "number": "#8",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Character",
+    "description": "(1.00)\n(2.73)\n(3.50)\n(4.50)\n(1.00)\n(-1.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nA random pill.\r\n\nAnemic after completing the Backasswards challenge.\r\n\nDescription\n\r\nHas an extra life that causes him to respawn as Lazarus II, losing one heart container in the process.\r\n\nLazarus transforms back to his original form when traveling to a new floor, and regains back the extra life.\r\n\nTransforming to the other character grants a permanent +0.5 damage to both forms.",
+    "unlock": "Have 4 or more {{i|Heart (soul)|pickup|Soul Hearts}} or {{i|Black Heart|pickup|Black Hearts}} at one time.",
+    "base_stats": {
+      "speed": 1,
+      "tears": 2.73,
+      "damage": 3.5,
+      "range": 4.5,
+      "shot_speed": 1,
+      "luck": -1
+    },
+    "stat_changes": [
+      "Extra lives"
+    ],
+    "keywords": [],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Lazarus_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr8",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Lazarus",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Come back stronger\n\nGrants +7.2 damage after resurrecting that fades over the course of 1 minute. The effect is repeated with each resurrection."
+      }
+    ],
+    "referenced_ids": [
+      "c214",
+      "chr11"
+    ],
+    "unlock_ref_ids": [
+      "5.10.3",
+      "5.10.6"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Have 4 or more Heart (soul) or Black Heart at one time."
+  },
+  {
+    "id": "chr9",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Eden",
+    "clean_name": "eden",
+    "number": "#9",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Character",
+    "description": "(0.85)\n(1.15)\n\n(1.80)\n(3.50)\n\n(2.50)\n(4.50)\n\n(5.00)\n(8.00)\n\n(0.75)\n(1.25)\n\n(-1.00)\n(1.00)\n\nNote: first set of stats is minimum possible stats, second set is the maximum.\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\n0-1 random trinket, pill, or card.\r\n\nRandom active item.\r\n\nRandom passive item.\r\n\nDescription\n\r\nStarts with randomized stats, items, and hairstyle.\r\n\nRequires Eden tokens in order to play. Eden tokens are awarded every time one of the following is defeated: Mom's Heart, It Lives, Ultra Greed, or The Beast.\r\n\nStarting a run as Eden consumes an Eden token.\r\n\nEden's stat multipliers are not randomized.\r\n\nStarting items cannot be ones with the noeden tag.",
+    "unlock": "Complete Chapter 4.",
+    "base_stats": {
+      "speed": 1.15,
+      "tears": 3.5,
+      "damage": 4.5,
+      "range": 8,
+      "shot_speed": 1.25,
+      "luck": 1
+    },
+    "stat_changes": [],
+    "keywords": [
+      "random"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Eden_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr9",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Eden",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "???\n\nSpawns 3 random items from random item pools. Only one can be taken."
+      }
+    ],
+    "referenced_ids": [],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Complete Chapter 4."
+  },
+  {
+    "id": "chr10",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "The Lost",
+    "clean_name": "lost",
+    "number": "#10",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Character",
+    "description": "(1.00)\n(2.73)\n(3.50)\n(6.50)\n(1.00)\n(0.00)\n\n1 coin,\n0 bombs,\n0 keys.\n\nStarting items\nEternal D6\r\n\nHoly Mantle after donating 879 coins to the Greed Donation Machine. The effect becomes inherent to The Lost rather than being shown as an item.\r\n\nDescription\n\r\nHas no health and dies in one hit.\r\n\nHas the ability to fly.\r\n\nShoots spectral tears.\r\n\nCan take Devil Deals and other items that require health containers in order to purchase for free. Doing so will despawn all other items in the room that require health.",
+    "unlock": "Die in a Sacrifice Room while holding {{i|Missing Poster}}.",
+    "base_stats": {
+      "speed": 1,
+      "tears": 2.73,
+      "damage": 3.5,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [
+      "Flight"
+    ],
+    "keywords": [
+      "ghost",
+      "white",
+      "soul"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/The_Lost_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr10",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/The_Lost",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Better destiny\n\nPrevents items with the nolostbr tag from appearing."
+      }
+    ],
+    "referenced_ids": [
+      "c609",
+      "c313",
+      "6.11"
+    ],
+    "unlock_ref_ids": [
+      "t23"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Die in a Sacrifice Room while holding Missing Poster."
+  },
+  {
+    "id": "chr11",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Lazarus II",
+    "clean_name": "lazarus",
+    "number": "#11",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Character",
+    "description": "(1.25)\n(2.73)\n(4.90; ×1.4)\n(6.50)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nAnemic: the item's effects become permanently active after completing the Backasswards challenge.\r\n\nDescription\n\r\nOnly accessible by dying and reviving as Lazarus, or by using Lazarus' Rags.\r\n\nReverts to Lazarus upon traveling to another floor.\r\n\nCan be used to obtain completion marks for Lazarus.",
+    "unlock": null,
+    "base_stats": {
+      "speed": 1.25,
+      "tears": 2.73,
+      "damage": 4.9,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "lazarus",
+      "risen"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Lazarus_II_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr11",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Lazarus_II",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Temporary DMG up\n\nGrants +7.2 damage that fades over the course of 1 minute. The effect is repeated with each resurrection."
+      }
+    ],
+    "referenced_ids": [
+      "c214",
+      "chr8",
+      "c332"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "chr12",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Black Judas",
+    "clean_name": "blackjudas",
+    "number": "#12",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Character",
+    "description": "(1.10)\n(2.73)\n(7.00; ×2)\n(6.50)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nNo starting items.\r\n\nDescription\n\r\nCan only be accessed by dying while holding Judas' Shadow.\r\n\nCannot have Red Heart containers. Any item that gives Red Heart containers will grant a Black Heart instead.\r\n\nCan be used to obtain completion marks for Judas.",
+    "unlock": null,
+    "base_stats": {
+      "speed": 1.1,
+      "tears": 2.73,
+      "damage": 7,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "dark",
+      "judas",
+      "shadow"
+    ],
+    "added_in": "Rebirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Black_Judas_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr12",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Black_Judas",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Belial incarnate\n\nConverts The Book of Belial into a passive item that can be held alongside another active item. This variant synergizes differently with certain active items. For more details, check the synergies section on active item pages."
+      }
+    ],
+    "referenced_ids": [
+      "c311",
+      "5.10.6",
+      "chr3"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": null
+  },
+  {
+    "id": "chr13",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Lilith",
+    "clean_name": "lilith",
+    "number": "#13",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Character",
+    "description": "(1.00)\n(2.73)\n(3.50)\n(6.50)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nBox of Friends\r\n\nIncubus (inherent)\r\n\nCambion Conception\r\n\nDescription\n\r\nLilith is blindfolded and cannot shoot any tears on her own, thus relies on her Incubus to deal damage.",
+    "unlock": "Defeat Ultra Greed as {{i|Azazel}}.",
+    "base_stats": {
+      "speed": 1,
+      "tears": 2.73,
+      "damage": 3.5,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [],
+    "added_in": "Afterbirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Lilith_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr13",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Lilith",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Offensive formation\n\nShooting familiars group towards Lilith's firing direction rather than following behind her."
+      }
+    ],
+    "referenced_ids": [
+      "c357",
+      "c360",
+      "c412"
+    ],
+    "unlock_ref_ids": [
+      "chr7"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Ultra Greed as Azazel."
+  },
+  {
+    "id": "chr14",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Keeper",
+    "clean_name": "keeper",
+    "number": "#14",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Character",
+    "description": "(0.90)\n(1.06)\n(4.20; ×1.2)\n(6.50)\n(1.00)\n(-2.00)\n\n0 coins,\n1 bomb,\n0 keys.\n\nStarting items\n1¢ after defeating Hush as Keeper.\r\n\nStore Key after defeating Satan as Keeper.\r\n\nWooden Nickel after defeating Isaac as Keeper.\r\n\nDescription\n\r\nShoots 3 tears in a spread at once, similar to The Inner Eye.\r\n\nUses coins as heart containers, starting with 2, and losing 1 each time he's hit. Health is replenished by picking up coins off the ground (1 Penny = 1 heart container). Doing so does not add a coin to his coin counter.\r\n\nIf a heart container is lost, it can be replenished with an HP up item.\r\n\nThe maximum number of coin heart containers that can be acquired via normal HP up items is 3.\r\n\nUpon defeating Hush as Keeper, he will start with 3 heart containers.\r\n\nDevil Deals cost money instead of heart containers, at the rate of 15¢ for an item that would cost 1 heart container, and 30¢ for 2.\r\n\nAll heart pickups are converted into 1-5 Blue Flies depending on the heart's quality.",
+    "unlock": "Donate 1000 coins to the {{i|Greed Donation Machine}}.",
+    "base_stats": {
+      "speed": 0.9,
+      "tears": 1.06,
+      "damage": 4.2,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": -2
+    },
+    "stat_changes": [],
+    "keywords": [
+      "grey",
+      "gray"
+    ],
+    "added_in": "Afterbirth",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Keeper_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr14",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Keeper",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Coin up\n\n+1 maximum coin heart container."
+      }
+    ],
+    "referenced_ids": [
+      "t83",
+      "c349",
+      "c2",
+      "5.20.1"
+    ],
+    "unlock_ref_ids": [
+      "6.11"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Donate 1000 coins to the Greed Donation Machine."
+  },
+  {
+    "id": "chr15",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Apollyon",
+    "clean_name": "apollyon",
+    "number": "#15",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Character",
+    "description": "(1.00)\n(2.73)\n(3.50)\n(6.50)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nVoid",
+    "unlock": "Defeat Mega Satan.",
+    "base_stats": {
+      "speed": 1,
+      "tears": 2.73,
+      "damage": 3.5,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "appolyon",
+      "apolyon",
+      "appollyon",
+      "gray",
+      "grey",
+      "the",
+      "destroyer"
+    ],
+    "added_in": "Afterbirth+",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Apollyon_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr15",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Apollyon",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Regurgitate\n\nVoiding an item has a 10% chance to spawn a copy of a previously absorbed item."
+      }
+    ],
+    "referenced_ids": [
+      "c477"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Mega Satan."
+  },
+  {
+    "id": "chr16",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "The Forgotten",
+    "clean_name": "forgotten",
+    "number": "#16",
+    "quality": null,
+    "pickup_quote": "and The Soul",
+    "type_label": "Character",
+    "description": "(1.00)\n(1.30)\n\n(1.36; ×0.5)\n(2.73)\n\n(5.25; ×1.5)\n(3.50)\n\n(6.50)\n(6.50)\n\n(1.00)\n(1.00)\n\n(0.00)\n(0.00)\n\nNote: first set is stats for The Forgotten, second is for The Soul.\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nNo starting items.\r\n\nDescription\n\r\nConsists of 2 characters (The Forgotten and The Soul) that can be switched by using the drop button.\r\n\nBoth characters share the same health bar, so each form can only have a maximum of 6 heart containers.\r\n\nIf either character dies, both die.\r\n\nTaking a Devil Deal that requires more heart containers than currently available and switching to the other character before health is deducted will not kill the characters. However, the form that took the deal won't be available to switch to until healed.\r\n\n\r\nThe Forgotten\n\r\nCannot acquire heart containers. Any regular heart containers will be turned to Bone Hearts, while any Soul Hearts and Black Hearts will be given to The Soul.\r\n\nThe Forgotten uses a bone club that can be swung as a melee weapon instead of firing regular tears.\r\n\nThe club deals 3x damage and deals knockback to enemies and The Forgotten himself. It synergizes with items and tear effects.\r\n\nHolding down the firing button will charge up an attack that, when released, throws the bone club forward and boomerangs back to The Forgotten.\r\n\nThe attack can be released before fully charged, but it will travel a shorter distance.\r\n\nThe throwing attack deals 1.5x damage and can hit the same enemy twice (once when launched and once when returned).\r\n\nIf the damage stat is lower than 3.5, the throw attack instead deals DamageStat + 1.75 damage.\r\n\nThe bone club passes through walls and obstacles, and can be used to grab pickups from a distance, and even open chests.\r\n\nThe shot speed stat has no effect.\r\n\nUnlike other characters, breaking a Bone Heart will affect the Devil Deal chance, unless the heart is broken via means of self-sacrifice.\r\n\n\r\nThe Soul\n\r\nThe Soul is chained to The Forgotten and can only move a set distance from him.\r\n\nCannot have any Red Heart containers. HP up items will grant Soul Hearts instead.\r\n\nHas the ability to fly and shoots spectral tears.\r\n\nWhen playing as The Soul, The Forgotten is immovable, cannot be damaged, and will block shots, as well as attract any projectiles in a very small radius.",
+    "unlock": "^n1) Have The Lamb defeated at least once.^n2) Defeat the first floor boss under a minute. Mom's voice can be heard if successful.^n3) Go to the starting room and bomb the shadow on the floor. This will drop {{id|c550}}. If no bomb is available, one is guaranteed to spawn from the first sacrifice in the Sacrifice Room.^n4) Acquire {{id|c551}} by defeating Boss Rush, in order to form {{i|Mom's Shovel}}.^n5) Use the item in a dirt patch in the Dark Room.",
+    "base_stats": {
+      "speed": 1.3,
+      "tears": 2.73,
+      "damage": 3.5,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [
+      "Flight"
+    ],
+    "keywords": [
+      "bones",
+      "bony",
+      "skeleton",
+      "gray",
+      "grey"
+    ],
+    "added_in": "Afterbirth+",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/The_Forgotten_and_The_Soul.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr16",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/The_Forgotten",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Unchained\n\nThe Soul is no longer chained to The Forgotten. The body can be left in one room, and switching back will instantly teleport The Soul to the body."
+      }
+    ],
+    "referenced_ids": [
+      "5.10.11",
+      "5.10.3",
+      "5.10.6"
+    ],
+    "unlock_ref_ids": [
+      "c552"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "^n1) Have The Lamb defeated at least once.^n2) Defeat the first floor boss under a minute. Mom's voice can be heard if successful.^n3) Go to the starting room and bomb the shadow on the floor. This will drop c550. If no bomb is available, one is guaranteed to spawn from the first sacrifice in the Sacrifice Room.^n4) Acquire c551 by defeating Boss Rush, in order to form Mom's Shovel.^n5) Use the item in a dirt patch in the Dark Room."
+  },
+  {
+    "id": "chr18",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Bethany",
+    "clean_name": "bethany",
+    "number": "#18",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Character",
+    "description": "(1.00)\n(2.73)\n(3.50)\n(6.50)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nBook of Virtues\r\n\nDescription\n\r\nUnable to use Soul Hearts and Black Hearts as health. She instead uses them as soul charges, as an alternative to charging active items.\r\n\nSoul charges are displayed on the HUD and operate at the rate of 1 soul charge per half soul heart. Bethany starts with 4 soul charges.\r\n\nSoul charges can be used to use an active item without having enough regular charges to do so. This is displayed by the item bar having blue instead of green charges. The amount of blue charges is equal to how many soul charges are going to be consumed if the item is used.\r\n\nUp to 99 soul charges can be held at a time.",
+    "unlock": "Defeat Mom's Heart/It Lives! on {{stat|hard}} Hard Mode as {{i|Lazarus}} without dying during the run.",
+    "base_stats": {
+      "speed": 1,
+      "tears": 2.73,
+      "damage": 3.5,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "book",
+      "of",
+      "virtues"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Bethany_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr18",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Bethany",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Conserve your faith\n\nUsing an active item with soul charges has a 50% chance not to consume any soul charges."
+      }
+    ],
+    "referenced_ids": [
+      "c584",
+      "5.10.3",
+      "5.10.6"
+    ],
+    "unlock_ref_ids": [
+      "chr8"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Mom's Heart/It Lives! on hard Hard Mode as Lazarus without dying during the run."
+  },
+  {
+    "id": "chr19",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Jacob and Esau",
+    "clean_name": "jacob",
+    "number": "#19",
+    "quality": null,
+    "pickup_quote": null,
+    "type_label": "Character",
+    "description": "(1.00)\n(1.00)\n\n(3.00)\n(2.50)\n\n(2.75)\n(3.75)\n\n(5.00)\n(8.00)\n\n(1.00)\n(1.00)\n\n(1.00)\n(-1.00)\n\nNote: first set shows stats for Jacob, the second one is for Esau.\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nNo starting items.\r\n\nDescription\n\r\nConsists of 2 characters that move and shoot at the same time.\r\n\nHolding down the drop button allows Jacob to move independently while Esau stays stationary.\r\n\nWhen one character dies, they both die.\r\n\nThey share the same coins, bombs, and keys, but have their own separate stats, health bar, and item inventories.\r\n\nEsau's health bar and active item is displayed in the lower-right corner. His stats are displayed under Jacob's, and items on the Found HUD are placed on the right side.\r\n\nEsau's active item can be used by pressing the use consumable button. Using an actual consumable requires holding down the drop button before pressing the corresponding character's active item button.\r\n\nPlacing down a bomb will make both characters place 2 for the price of 1.\r\n\nWith correct timing, it is possible to take 2 items (one for each character) from a set of item pedestals that disappear once one of them is taken.\r\n\nThe speed stat is shared between the characters, and each of them gets half of any speed upgrade.\r\n\nTransformations are not shared. Each character has their own transformation progress.\r\n\nKey items such as Key Piece 1 and Key Piece 2 will combine regardless of which character picked them up.\r\n\nThe luck stat is combined for game events that depend on the character's luck.",
+    "unlock": "Defeat Mother.",
+    "base_stats": {
+      "speed": 1,
+      "tears": 2.5,
+      "damage": 3.75,
+      "range": 8,
+      "shot_speed": 1,
+      "luck": -1
+    },
+    "stat_changes": [],
+    "keywords": [
+      "jacob",
+      "&",
+      "esau"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Jacob_and_Esau_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr19",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Jacob_and_Esau",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "What's yours is mine\n\nThe character that picked up the item copies 3 of the other character's latest passive items."
+      }
+    ],
+    "referenced_ids": [
+      "c238",
+      "c239"
+    ],
+    "unlock_ref_ids": [],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Defeat Mother."
+  },
+  {
+    "id": "chr21",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Tainted Isaac",
+    "clean_name": "isaac",
+    "number": "#21",
+    "quality": null,
+    "pickup_quote": "More options; less room",
+    "type_label": "Character\nThe Broken",
+    "description": "(1.00)\n(2.73)\n(3.50)\n(6.50)\n(1.00)\n(0.00)\n\n0 coins,\n1 bomb,\n0 keys.\n\nStarting items\nNo starting items.\r\n\nDescription\n\r\nCan hold only 8 passive items at a time. They are displayed in the top-left corner of the screen, with one of them highlighted by a white square.\r\n\nPicking up the 9th item will replace the highlighted item and drop it on the ground.\r\n\nThe currently highlighted item can be cycled by using the drop button.\r\n\nAll new item pedestals cycle between 2 items for Isaac to choose from. This does not apply to pedestals that are dropped.\r\n\nItems with the quest tag, as well as Birthright, don't take up inventory space.\r\n\nDropping items removes their passive effects, however any health or pickups gained from them will be kept.",
+    "unlock": "Open up the hidden Red Door in the Home level as {{i|Isaac}}.",
+    "base_stats": {
+      "speed": 1,
+      "tears": 2.73,
+      "damage": 3.5,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "the",
+      "broken"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Tainted_Isaac_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr21",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Tainted_Isaac",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Inventory up\n\nGrants 4 additional inventory slots.\nDoes not take up a slot itself."
+      }
+    ],
+    "referenced_ids": [
+      "c619"
+    ],
+    "unlock_ref_ids": [
+      "chr0"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Open up the hidden Red Door in the Home level as Isaac."
+  },
+  {
+    "id": "chr22",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Tainted Magdalene",
+    "clean_name": "magdalene",
+    "number": "#22",
+    "quality": null,
+    "pickup_quote": "Lethal hugs; items heal more",
+    "type_label": "Character\nThe Dauntless",
+    "description": "(1.00)\n(2.73)\n(2.62; ×0.75)\n(6.50)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nYum Heart (consumable slot; heals 2 red hearts instead of 1)\r\n\nDescription\n\r\nWhen her health is above 2 Red Hearts, she leaves damaging red creep on the ground and loses half a heart each 10 seconds.\r\n\nThe health loss affects all types of hearts except Rotten Hearts, but red hearts are prioritized and drained first.\r\n\nLosing the leaking hearts does not affect the Devil Deal chance. Only non-leaking ones do.\r\n\nIf she has no red hearts, all hearts will leak until she has half a heart left.\r\n\nShe receives double healing from all sources except heart pickups.\r\n\nAll enemies have a 50% chance of dropping a Half Heart upon death, that will disappear after 2 seconds unless picked up.\r\n\nTouching an enemy will perform a melee attack that deals 6x damage and guarantees a Half Heart to spawn from enemies killed by it.\r\n\nThe melee attack synergizes with held items.",
+    "unlock": "Open up the hidden Red Door in the Home level as {{i|Magdalene}}.",
+    "base_stats": {
+      "speed": 1,
+      "tears": 2.73,
+      "damage": 2.62,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "tainted",
+      "maggie",
+      "the",
+      "dauntless"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Tainted_Magdalene_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr22",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Tainted_Magdalene",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "HP up!\n\nGrants +1 non-leaky red heart container."
+      }
+    ],
+    "referenced_ids": [
+      "c45",
+      "5.10.12",
+      "5.10.2"
+    ],
+    "unlock_ref_ids": [
+      "chr1"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Open up the hidden Red Door in the Home level as Magdalene."
+  },
+  {
+    "id": "chr23",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Tainted Cain",
+    "clean_name": "cain",
+    "number": "#23",
+    "quality": null,
+    "pickup_quote": "No destiny",
+    "type_label": "Character\nThe Hoarder",
+    "description": "(1.30)\n(2.73)\n(4.20; ×1.2)\n(4.50)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n1 key.\n\nStarting items\nBag of Crafting (consumable slot)\r\n\nDescription\n\r\nCan only shoot tears from his right eye.\r\n\nCannot pick up any items and must use the Bag of Crafting to obtain them.\r\n\nTouching an item pedestal will convert it into an assortment of pickups. An exception to this rule are items with the quest tag.\r\n\nSpecific pickups are dropped when touching items based on the current room:\r\n\n• Secret Room: Bone Hearts\r\n\n• Curse Room: Rotten Hearts\r\n\n• Planetarium: random runes\r\n\n• Devil Room: Black Hearts\r\n\n• Angel Room: Eternal Hearts\r\n\n• Ultra Secret Room: Cracked Key\r\n\nCrafting an active item will transform the old active item into pickups instead of dropping it.",
+    "unlock": "Open up the hidden Red Door in the Home level as {{i|Cain}}.",
+    "base_stats": {
+      "speed": 1.3,
+      "tears": 2.73,
+      "damage": 4.2,
+      "range": 4.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "the",
+      "hoarder"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Tainted_Cain_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr23",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Tainted_Cain",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Salvage\n\nDoubles the amount of pickups dropped by item conversion."
+      }
+    ],
+    "referenced_ids": [
+      "c710",
+      "5.10.11",
+      "5.10.12",
+      "5.10.6",
+      "5.10.4",
+      "k78"
+    ],
+    "unlock_ref_ids": [
+      "chr2"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Open up the hidden Red Door in the Home level as Cain."
+  },
+  {
+    "id": "chr24",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Tainted Judas",
+    "clean_name": "judas",
+    "number": "#24",
+    "quality": null,
+    "pickup_quote": "Shadow eater",
+    "type_label": "Character\nThe Deceiver",
+    "description": "(1.23)\n(2.73)\n(3.50)\n(4.50)\n(1.00)\n(0.00)\n\n3 coins,\n0 bombs,\n0 keys.\n\nStarting items\nDark Arts (consumable slot)\r\n\nDescription\n\r\nUsing Dark Arts grants a temporary +1 damage bonus for every enemy/projectile walked through, that wears off at a rate of -0.25 every half a second.\r\n\nCannot have Red Heart containers. Any item that gives Red Heart containers will grant a Black Heart instead.",
+    "unlock": "Open up the hidden Red Door in the Home level as {{i|Judas}}.",
+    "base_stats": {
+      "speed": 1.23,
+      "tears": 2.73,
+      "damage": 3.5,
+      "range": 4.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "the",
+      "deceiver",
+      "black"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Tainted_Judas_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr24",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Tainted_Judas",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Extended darkness\n\nIncreases the Dark Arts range for hitting enemies and projectiles."
+      }
+    ],
+    "referenced_ids": [
+      "c705",
+      "5.10.6"
+    ],
+    "unlock_ref_ids": [
+      "chr3"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Open up the hidden Red Door in the Home level as Judas."
+  },
+  {
+    "id": "chr25",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Tainted ???",
+    "clean_name": "???",
+    "number": "#25",
+    "quality": null,
+    "pickup_quote": "No bombs; only poop",
+    "type_label": "Character\nThe Soiled",
+    "description": "(0.90)\n(2.04)\n(3.50)\n(6.50)\n(1.00)\n(0.00)\n\n0 coins,\n3 poops,\n0 keys.\n\nStarting items\nHold (consumable slot)\r\n\nDescription\n\r\nCannot have Red Heart containers. Any item that gives Red Heart containers will grant a Soul Heart instead.\r\n\nBomb pickups are replaced with poop pickups. They are displayed on the HUD instead of bombs and up to 9 can be held at a time.\r\n\nThe top-left corner of the screen shows a list of 6 different poop effects in set order.\r\n\nAttempting to place a bomb will consume a poop and grant the effects of the leftmost shown poop effect.\r\n\nPoop pickups have a chance to drop when killing enemies, and when dealing damage. Small poop pickups give 1 poop, and large ones give 3.\r\n\nItems that give bombs will grant a Blue Fly for each bomb they should've given.\r\n\nSpawns a poop upon death and drops a portion of his currently held poops.\r\n\n\r\nPoop variants\n\r\nSome poop variants grant a poop that can be thrown, while others activate a one-time effect. Throwables poops deal 15 damage to enemies they hit.\r\n\r\n\nThrowable:\r\n\nPoop: normal poop just like ones found in regular runs.\r\n\nCorn Poop: spawns a Blue Fly every 2 seconds. Up to 3 Blue Flies can be around it at a time.\r\n\nFlaming Poop: deals 22 damage per tick to enemies that touch it. Once destroyed, leaves behind a fire that deals damage up to 3 times before disappearing. The first tick deals 22 damage, the second 16.5, and the third 11.\r\n\nStinky Poop: surrounded by a toxic cloud that deals 3.5 damage per tick (10.5 per second). If an explosion hits the cloud, it also explodes dealing 15 damage. When the poop is destroyed, it spawns an even larger toxic cloud that lingers for 5 seconds.\r\n\nBlack Poop: creates slowing black creep in a very small radius. When destroyed, deals 10 damage to all enemies and confuses them for 2 seconds. Creep will be continue to be created even after the poop is destroyed.\r\n\nWhite Poop: acts the same as Hallowed Ground.\r\n\nStone Poop: hits enemies up to 3 times and takes much longer to break.\r\n\nPoop Bomb: explodes after 1.5 seconds even if not thrown. Synergizes with bomb effects.\r\n\r\n\nNon-throwable:\r\n\nFart: deals 5 damage, knocks back nearby enemies and projectiles and poisons enemies. Also spawns a toxic cloud that poisons enemies. If caught in an explosion, the cloud also explodes and deals 15 damage.\r\n\nExplosive Diarrhea: drops 5 live bombs one after the other. They synergize with bomb effects.\r\n\nBrown Creep: creates a trail of brown creep that lasts for the entire room. It deals 1.5x damage per tick (15x per second). Standing on the creep grants +1 damage, +1.5 tears and other effects depending on what the creep is in contact with:\r\n\n• Black Poop: slows down enemies and grants slowing tears.\r\n\n• Stinky Poop: poisons enemies and grants poison tears.\r\n\n• Flaming Poop: sets enemies on fire and grants Fire Mind tears.\r\n\n• Holy Poop: grants homing tears and 3x tears and damage.\r\n\n• Stone Poop: keeps all extra effects of other poops even if they are destroyed, as long as the Stone Poop itself is not destroyed.",
+    "unlock": "Open up the hidden Red Door in the Home level as {{i|???|character}}.",
+    "base_stats": {
+      "speed": 0.9,
+      "tears": 2.04,
+      "damage": 3.5,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "tainted",
+      "blue",
+      "baby",
+      "the",
+      "soiled"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Tainted_Blue_Baby_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr25",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Tainted_%3F%3F%3F",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Poop up\n\nAllows up to 29 poops to be held at a time."
+      }
+    ],
+    "referenced_ids": [
+      "c715",
+      "5.10.3",
+      "c543",
+      "c257"
+    ],
+    "unlock_ref_ids": [
+      "chr4"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Open up the hidden Red Door in the Home level as ???."
+  },
+  {
+    "id": "chr26",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Tainted Eve",
+    "clean_name": "eve",
+    "number": "#26",
+    "quality": null,
+    "pickup_quote": "Clot summoner",
+    "type_label": "Character\nThe Curdled",
+    "description": "(1.00)\n(1.20; ×0.66)\n(4.20; ×1.2)\n(6.50)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nSumptorium (consumable slot)\r\n\nDescription\n\r\nWhen at half a heart and no blood clots are alive, she gains the effects of Whore of Babylon, and starts wielding Sumptorium as a melee weapon that functions the same as Mom's Knife.",
+    "unlock": "Open up the hidden Red Door in the Home level as {{i|Eve}}.",
+    "base_stats": {
+      "speed": 1,
+      "tears": 1.2,
+      "damage": 4.2,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "the",
+      "curdled",
+      "sumptorium",
+      "blood",
+      "clots"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Tainted_Eve_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr26",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Tainted_Eve",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Coagulate\n\nRed clots spawn Half Hearts upon death that disappear after 2 seconds unless picked up."
+      }
+    ],
+    "referenced_ids": [
+      "c713",
+      "c122",
+      "c114"
+    ],
+    "unlock_ref_ids": [
+      "chr5"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Open up the hidden Red Door in the Home level as Eve."
+  },
+  {
+    "id": "chr27",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Tainted Samson",
+    "clean_name": "samson",
+    "number": "#27",
+    "quality": null,
+    "pickup_quote": "Undying rage",
+    "type_label": "Character\nThe Savage",
+    "description": "(1.00)\n(2.50)\n(3.50)\n(5.00)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nNo starting items.\r\n\nDescription\n\r\nDealing or taking damage makes Samson progressively more red. After reaching a certain point, he gains the effects of Berserk!.\r\n\nThe amount of damage dealt required to activate the effect is equal to 120 + 40 × CurrentFloor. Taking damage adds +10%.",
+    "unlock": "Open up the hidden Red Door in the Home level as {{i|Samson}}.",
+    "base_stats": {
+      "speed": 1,
+      "tears": 2.5,
+      "damage": 3.5,
+      "range": 5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "the",
+      "savage",
+      "berserk"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Tainted_Samson_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr27",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Tainted_Samson",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Unstoppable force\n\nMakes Berserk!'s timer gain 3 seconds instead of 1 when killing an enemy."
+      }
+    ],
+    "referenced_ids": [
+      "c704"
+    ],
+    "unlock_ref_ids": [
+      "chr6"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Open up the hidden Red Door in the Home level as Samson."
+  },
+  {
+    "id": "chr28",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Tainted Azazel",
+    "clean_name": "azazel",
+    "number": "#28",
+    "quality": null,
+    "pickup_quote": "Broken wings",
+    "type_label": "Character\nThe Benighted",
+    "description": "(1.00)\n(0.91; ×0.33)\n(5.25; ×1.5)\n(6.50)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\n0 - The Fool\r\n\nDescription\n\r\nFires a thin Brimstone beam instead of tears that deals 0.5x damage for 6 ticks.\r\n\nAt the start of charging the attack, Azazel performs a Hemoptysis sneeze.",
+    "unlock": "Open up the hidden Red Door in the Home level as {{i|Azazel}}.",
+    "base_stats": {
+      "speed": 1,
+      "tears": 0.91,
+      "damage": 5.25,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "the",
+      "benighted",
+      "black"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Tainted_Azazel_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr28",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Tainted_Azazel",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Stronger sneeze\n\nDoubles the size of the sneeze attack."
+      }
+    ],
+    "referenced_ids": [
+      "k1",
+      "c118",
+      "c726"
+    ],
+    "unlock_ref_ids": [
+      "chr7"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Open up the hidden Red Door in the Home level as Azazel."
+  },
+  {
+    "id": "chr29",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Tainted Lazarus",
+    "clean_name": "lazarus",
+    "number": "#29",
+    "quality": null,
+    "pickup_quote": "Between life and death",
+    "type_label": "Character\nThe Enigma",
+    "description": "(1.00)\n(0.90)\n\n(2.73)\n(2.50)\n\n(3.50)\n(5.25; ×1.5)\n\n(4.50)\n(6.50)\n\n(1.00)\n(1.00)\n\n(0.00)\n(-2.00)\n\nNote: first set is stats for Tainted Lazarus, second set is for Dead Tainted Lazarus.\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nFlip (consumable slot)\r\n\nDescription\n\r\nHas two forms, Tainted Lazarus and Dead Tainted Lazarus, that switch upon every room clear.\r\n\nEach form has its own health bar, stats, and item inventory.\r\n\nFlip is shared between the two forms and can be used to switch between them when fully charged.\r\n\nItems with the lazarusshared tag have their passive effects shared between the two forms. This is also the case for the lazarussharedglobal tag, except for direct stat changes granted by these items.",
+    "unlock": "Open up the hidden Red Door in the Home level as {{i|Lazarus}}.",
+    "base_stats": {
+      "speed": 0.9,
+      "tears": 2.5,
+      "damage": 5.25,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": -2
+    },
+    "stat_changes": [],
+    "keywords": [
+      "the",
+      "enigma",
+      "dead",
+      "tainted",
+      "lazarus"
+    ],
+    "added_in": "Repentance",
+    "animated": true,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Tainted_Lazaruses_costume.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr29",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Tainted_Lazarus",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Superposition\n\nThe inactive form of the character will appear as a ghost moving alongside the active form, but is immune to damage.\r\n\nThe ghost will shoot tears alongside the other form that deal 25% of the ghost's damage.\r\n\nHolding down the 'drop' button allows the active form to move independently from the ghost."
+      }
+    ],
+    "referenced_ids": [
+      "c711"
+    ],
+    "unlock_ref_ids": [
+      "chr8"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Open up the hidden Red Door in the Home level as Lazarus."
+  },
+  {
+    "id": "chr30",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Tainted Eden",
+    "clean_name": "eden",
+    "number": "#30",
+    "quality": null,
+    "pickup_quote": "Ever changing",
+    "type_label": "Character\nThe Capricious",
+    "description": "(0.85)\n(1.15)\n\n(1.80)\n(3.50)\n\n(2.50)\n(4.50)\n\n(5.00)\n(8.00)\n\n(0.75)\n(1.25)\n\n(-1.00)\n(1.00)\n\nNote: first set of stats is minimum possible stats, second set is the maximum.\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\n0-1 random trinket, pill, or card.\r\n\nRandom active item.\r\n\nRandom passive item.\r\n\nDescription\n\r\nStarts with randomized stats, items, and hairstyle.\r\n\nRequires Eden tokens in order to play. Eden tokens are awarded every time one of the following is defeated: Mom's Heart, It Lives, Ultra Greed, or The Beast.\r\n\nStarting a run as Tainted Eden consumes an Eden token.\r\n\nTainted Eden's stat multipliers are not randomized.\r\n\nStarting items cannot be ones with the noeden tag.\r\n\nTaking damage causes all of Eden's stats, items, trinkets, consumables, and his hairstyle to be rerolled. Items will reroll into other items from the same pool they were obtained from.\r\n\nTaking self-damage, such as from a Blood Donation Machine, or dying, will not trigger a reroll.",
+    "unlock": "Open up the hidden Red Door in the Home level as {{i|Eden}}.",
+    "base_stats": {
+      "speed": 1.15,
+      "tears": 3.5,
+      "damage": 4.5,
+      "range": 8,
+      "shot_speed": 1.25,
+      "luck": 1
+    },
+    "stat_changes": [],
+    "keywords": [
+      "random",
+      "the",
+      "capricious"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Tainted_Eden_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr30",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Tainted_Eden",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Eternal\n\nPrevents items acquired prior to Birthright from ever being rerolled."
+      }
+    ],
+    "referenced_ids": [
+      "6.2"
+    ],
+    "unlock_ref_ids": [
+      "chr9"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Open up the hidden Red Door in the Home level as Eden."
+  },
+  {
+    "id": "chr31",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Tainted Lost",
+    "clean_name": "lost",
+    "number": "#31",
+    "quality": null,
+    "pickup_quote": "Better items; no mantle",
+    "type_label": "Character\nThe Baleful",
+    "description": "(1.00)\n(2.73)\n(4.55; ×1.3)\n(6.50)\n(1.00)\n(0.00)\n\n1 coin,\n0 bombs,\n0 keys.\n\nStarting items\nHoly Card\r\n\nDescription\n\r\nHas no health and dies in one hit.\r\n\nHas the ability to fly.\r\n\nShoots spectral tears.\r\n\nCan take Devil Deals and other items that require health containers in order to purchase for free. Doing so will despawn all other items in the room that require health.\r\n\nAll cards have a 10% chance to reroll into Holy Card.\r\n\nOnly items with the offensive and quest tags can be encountered naturally. Other items can only appear by using items such as Spindown Dice, Death Certificate, Soul of Lilith or as set drops from grid entities.\r\n\nItems with quality 2 or less have a 20% chance of being rerolled.",
+    "unlock": "Open up the hidden Red Door in the Home level as {{i|The Lost}}.",
+    "base_stats": {
+      "speed": 1,
+      "tears": 2.73,
+      "damage": 4.55,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [
+      "Flight"
+    ],
+    "keywords": [
+      "the",
+      "baleful",
+      "gray",
+      "grey",
+      "ghost",
+      "soul"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Tainted_Lost_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr31",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Tainted_Lost",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Extra life\n\nGrants an extra life that revives Tainted Lost in the same room and deals 200 damage to nearby enemies, hitting them up to 4 times."
+      }
+    ],
+    "referenced_ids": [
+      "k51",
+      "c723",
+      "c628",
+      "k92"
+    ],
+    "unlock_ref_ids": [
+      "chr10"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Open up the hidden Red Door in the Home level as The Lost."
+  },
+  {
+    "id": "chr32",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Tainted Lilith",
+    "clean_name": "lilith",
+    "number": "#32",
+    "quality": null,
+    "pickup_quote": "Fetal fury",
+    "type_label": "Character\nThe Harlot",
+    "description": "(0.85)\n(2.73)\n(3.50)\n(6.50)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nNo starting items.\r\n\nDescription\n\r\nInstead of firing tears, she launches a Gello familiar that behaves the same as the item, and is recalled when stopped firing.",
+    "unlock": "Open up the hidden Red Door in the Home level as {{i|Lilith}}.",
+    "base_stats": {
+      "speed": 0.85,
+      "tears": 2.73,
+      "damage": 3.5,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "the",
+      "harlot"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Tainted_Lilith_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr32",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Tainted_Lilith",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Conjoined\n\nFollowing familiars stack on top of Gello and reside in Lilith's abdomen until released.\r\n\nThe launch attack gains +3 flat damage per familiar.\r\n\nFamiliars automatically aim and shoot at enemies."
+      }
+    ],
+    "referenced_ids": [
+      "c728"
+    ],
+    "unlock_ref_ids": [
+      "chr13"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Open up the hidden Red Door in the Home level as Lilith."
+  },
+  {
+    "id": "chr33",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Tainted Keeper",
+    "clean_name": "keeper",
+    "number": "#33",
+    "quality": null,
+    "pickup_quote": "Better shops; greed is good",
+    "type_label": "Character\nThe Miser",
+    "description": "(1.00)\n(0.99)\n(3.50)\n(6.50)\n(1.00)\n(-2.00)\n\n0 coins,\n1 bomb,\n0 keys.\n\nStarting items\nNo starting items.\r\n\nDescription\n\r\nShoots 4 tears in a spread at once, similar to Mutant Spider.\r\n\nUses coins as heart containers, starting with 2, and losing 1 each time he's hit. Health is replenished by picking up coins off the ground (1 Penny = 1 heart container). Doing so does not add a coin to his coin counter.\r\n\nIf a heart container is lost, it can be replenished with an HP up item.\r\n\nThe maximum number of coin heart containers that can be acquired via normal HP up items is 2.\r\n\nA random coin is dropped from enemies killed. The coin disappears after 2 seconds unless picked up.\r\n\nChampion enemies and mini-bosses drop 2 coins, while bosses drop several coins that take longer to disappear.\r\n\nEnemies spawned later in the room are not guaranteed to spawn a coin. This chance decreases as more enemies spawn, and coins will eventually stop spawning in that room.\r\n\nAll items encountered must be paid for in order to be picked up, including ones in Treasure Rooms, Boss Rooms, Angel Rooms, Devil Rooms, etc.\r\n\nThey will cost either 15¢ or 30¢ depending on their heart container price if they would appear in a Devil Deal, or 10¢ for specific Shop items.\r\n\nItems with the quest tag, and some set drops such as items from mini-bosses, chests, rocks, beggars/machines, etc, do not require payment.\r\n\nShops do not require a key to open and have much more stock to offer, going up to 8 items/pickups for sale in a fully upgraded Shop.\r\n\nShops will contain at least 1 Shop item, 1 Boss item, and 2 Treasure Room items. The other 4 slots can be keys, bombs, cards, pills, and trinkets that are sold for 5¢.\r\n\nAll heart pickups are converted into 1-5 Blue Flies depending on the heart's quality.",
+    "unlock": "Open up the hidden Red Door in the Home level as {{i|Keeper}}.",
+    "base_stats": {
+      "speed": 1,
+      "tears": 0.99,
+      "damage": 3.5,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": -2
+    },
+    "stat_changes": [],
+    "keywords": [
+      "the",
+      "miser",
+      "gray",
+      "grey"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Tainted_Keeper_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr33",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Tainted_Keeper",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Money money money\n\nCoins dropped by enemies are strongly pulled towards Tainted Keeper from a short distance."
+      }
+    ],
+    "referenced_ids": [
+      "c153",
+      "5.20.1"
+    ],
+    "unlock_ref_ids": [
+      "chr14"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Open up the hidden Red Door in the Home level as Keeper."
+  },
+  {
+    "id": "chr34",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Tainted Apollyon",
+    "clean_name": "apollyon",
+    "number": "#34",
+    "quality": null,
+    "pickup_quote": "Plague bringer",
+    "type_label": "Character\nThe Empty",
+    "description": "(1.00)\n(1.82)\n(3.50)\n(6.50)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nAbyss (consumable slot)\r\n\nDescription\n\r\nStarts with an Abyss locust.",
+    "unlock": "Open up the hidden Red Door in the Home level as {{i|Apollyon}}.",
+    "base_stats": {
+      "speed": 1,
+      "tears": 1.82,
+      "damage": 3.5,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "the",
+      "empty",
+      "appollyon",
+      "appolyon",
+      "apolyon",
+      "gray",
+      "grey",
+      "the",
+      "destroyer"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Tainted_Apollyon_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr34",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Tainted_Apollyon",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Torment\n\nHolding down the fire button causes locusts to continuously damage enemies instead of returning."
+      }
+    ],
+    "referenced_ids": [
+      "c706"
+    ],
+    "unlock_ref_ids": [
+      "chr15"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Open up the hidden Red Door in the Home level as Apollyon."
+  },
+  {
+    "id": "chr35",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Tainted Forgotten",
+    "clean_name": "forgotten",
+    "number": "#35",
+    "quality": null,
+    "pickup_quote": "Dead weight",
+    "type_label": "Character\nThe Fettered",
+    "description": "(1.00)\n(1.36; ×0.5)\n(5.25; ×1.5)\n(6.50)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nNo starting items.\r\n\nDescription\n\r\nConsists of 2 characters: Tainted Forgotten which cannot move on his own, and Tainted Soul that can pick up Tainted Forgotten and throw him around.\r\n\nTainted Soul is the character that can move, fly, and can be damaged, while Tainted Forgotten is the one that can shoot but cannot be damaged. The Soul cannot shoot or deal any damage.\r\n\nEven though The Soul can be damaged, the health bar internally belongs to the body.\r\n\nTouching the body will pick it up, allowing The Soul to throw it. This will cause it to swing his bone club that deals 3x damage, and the impact of the body itself deals 5 flat damage.\r\n\nJust like regular The Forgotten, the bone club can be charged and thrown to deal 1.5x damage.\r\n\nThe attack can be released before fully charged, but it will travel a shorter distance.\r\n\nEnemies will almost always target the body instead of The Soul.\r\n\nThe body can be used to guard against enemy projectiles and block their movement.\r\n\nThe Soul cannot have Red Heart containers. Any item that gives Red Heart containers will grant a Soul Heart instead.\r\n\nBoth the body and The Soul can pick up items and share the same inventory and health bar.\r\n\nPlacing a bomb will place it underneath the body.\r\n\nAny items picked up will behave as if the body picked them up, such as familiars that will orbit the body instead of The Soul. However, speed upgrades and invincibility effects will affect The Soul instead.\r\n\nThe bone club passes through walls and obstacles, and can be used to grab pickups from a distance, and even open chests.",
+    "unlock": "Open up the hidden Red Door in the Home level as {{i|The Forgotten}}.",
+    "base_stats": {
+      "speed": 1,
+      "tears": 1.36,
+      "damage": 5.25,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [
+      "Flight"
+    ],
+    "keywords": [
+      "bones",
+      "bony",
+      "the",
+      "fettered",
+      "skeleton",
+      "gray",
+      "grey"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Tainted_Forgotten_And_Soul.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr35",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Tainted_Forgotten",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Recall\n\nGrants Recall which can be used to grab the body from a distance."
+      }
+    ],
+    "referenced_ids": [
+      "chr16",
+      "5.10.3"
+    ],
+    "unlock_ref_ids": [
+      "chr16"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Open up the hidden Red Door in the Home level as The Forgotten."
+  },
+  {
+    "id": "chr36",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Tainted Bethany",
+    "clean_name": "bethany",
+    "number": "#36",
+    "quality": null,
+    "pickup_quote": "Blood power; weaker items",
+    "type_label": "Character\nThe Zealot",
+    "description": "(1.00)\n(2.73)\n(3.50)\n(6.50)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nLemegeton (consumable slot)\r\n\nDescription\n\r\nUnable to use Red Hearts as health. She instead uses them as blood charges, as an alternative to charging active items. Any item that gives Red Heart containers will grant a Soul Heart instead.\r\n\nBlood charges are displayed on the HUD and operate at the rate of 1 blood charge per half red heart. Bethany starts with 6 blood charges.\r\n\nRotten Hearts can also be used as charges - each gives 1 blood charge.\r\n\nBlood charges can be used to use an active item without having enough regular charges to do so. This is displayed by the item bar having red instead of green charges. The amount of red charges is equal to how many blood charges are going to be consumed if the item is used.\r\n\nUp to 99 blood charges can be held at a time.\r\n\nAny stat ups granted by items are reduced by 25%.\r\n\nFamiliars and orbitals deal 25% less damage.\r\n\nFamiliars that drop pickups upon clearing a set amount of rooms will do so more infrequently (1-2 rooms increase).\r\n\nDirect fire rate modifiers such as Mom's Perfume are not reduced.\r\n\nThe soft tears cap for Tainted Bethany is 4.43 instead of 5.",
+    "unlock": "Open up the hidden Red Door in the Home level as {{i|Bethany}}.",
+    "base_stats": {
+      "speed": 1,
+      "tears": 2.73,
+      "damage": 3.5,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [],
+    "keywords": [
+      "the",
+      "zealot",
+      "lemegeton",
+      "book"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Tainted_Bethany_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr36",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Tainted_Bethany",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "Artifact\n\nSpawns 4 Lemegeton wisps of items with a quality of 3 or 4. These wisps are much larger and have 4x health."
+      }
+    ],
+    "referenced_ids": [
+      "c712",
+      "5.10.1",
+      "5.10.3",
+      "5.10.12",
+      "c228"
+    ],
+    "unlock_ref_ids": [
+      "chr18"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Open up the hidden Red Door in the Home level as Bethany."
+  },
+  {
+    "id": "chr37",
+    "mod": "isaac",
+    "category": "character",
+    "type": "character",
+    "name": "Tainted Jacob",
+    "clean_name": "jacob",
+    "number": "#37",
+    "quality": null,
+    "pickup_quote": "Repent for your sins",
+    "type_label": "Character\nThe Deserter",
+    "description": "(1.00)\n(3.00)\n(3.50)\n(6.50)\n(1.00)\n(0.00)\n\n0 coins,\n0 bombs,\n0 keys.\n\nStarting items\nAnima Sola (consumable slot)\r\n\nDescription\n\r\nUnlike Jacob and Esau, Tainted Jacob is the only character that can be controlled, while Esau appears as an enemy known as Dark Esau.\r\n\nDark Esau appears in the room Jacob is in, 20-40 seconds after entering the floor. He emerges from a crack in the ground, creating a circle of damaging flames that hurt both enemies (6 damage) and Jacob.\r\n\nDark Esau will continuously chase Jacob and persist between rooms, speeding up the further away and slowing down when within a short distance.\r\n\nWhen near Jacob and they align in the cardinal directions, Dark Esau will perform a charge attack at Jacob, damaging any enemies in its path while leaving behind a blazing trail that damages enemies and sets them on fire.\r\n\nDark Esau deals 30 contact damage per tick to enemies, while his flames deal 10. His charge attack bypasses boss armor.\r\n\nIf Dark Esau touches Jacob, Jacob turns into a ghost similar to The Lost, gaining the ability to fly and shoot spectral tears.\r\n\nWhile in ghost form, Jacob will die in one hit or if touched again by Dark Esau. He still has a health bar that can be filled normally, however it is shown faded on the HUD and will not protect against damage.\r\n\nDevil Deals can be taken for free while a ghost, however only one can be taken in a room, while the others will disappear.\r\n\nThe ghost form persists for the remainder of the floor. Going to the next floor will return Jacob to his normal form.\r\n\nUsing Anima Sola will always prioritize Dark Esau, locking him in place. When the chains break (automatically or by using the item again), Dark Esau will instantly perform his charge attack. This can be used as an offensive mechanic against enemies.\r\n\nIf Anima Sola is used in a room without enemies before Dark Esau has spawned, it will immediately summon him without wasting a charge.\r\n\nDark Esau cannot convert Jacob while chained, but still deals contact damage to enemies.\r\n\nDark Esau cannot be killed.",
+    "unlock": "Open up the hidden Red Door in the Home level as {{i|Jacob and Esau}}.",
+    "base_stats": {
+      "speed": 1,
+      "tears": 3,
+      "damage": 3.5,
+      "range": 6.5,
+      "shot_speed": 1,
+      "luck": 0
+    },
+    "stat_changes": [
+      "Flight"
+    ],
+    "keywords": [
+      "the",
+      "deserter",
+      "dark",
+      "esau"
+    ],
+    "added_in": "Repentance",
+    "animated": false,
+    "wti_banned": false,
+    "youtube_id": null,
+    "costume_url": "https://isaacguru.com/core/assets/img/costumes/Tainted_Jacob_Appearance.webp",
+    "guru_url": "https://isaacguru.com/wiki/isaac/chr37",
+    "wiki_url": "https://bindingofisaacrebirth.wiki.gg/wiki/Tainted_Jacob",
+    "pools": [],
+    "tag_ids": [],
+    "transformation_ids": [],
+    "synergies": [
+      {
+        "target_id": "c619",
+        "description": "It's not yours\n\nCauses Dark Esau to split into 2 copies. Both of them charge at the same time. They also get chained together and are forced in the same spot, however Anima Sola releases them 1 by 1.\n\nAnima Sola's recharge time is reduced to 10 seconds, and chain duration is increased to 6.67 seconds."
+      }
+    ],
+    "referenced_ids": [
+      "c722",
+      "chr19",
+      "chr10"
+    ],
+    "unlock_ref_ids": [
+      "chr19"
+    ],
+    "unlock_tag_ids": [],
+    "unlock_challenges": [],
+    "unlock_text": "Open up the hidden Red Door in the Home level as Jacob and Esau."
+  }
+]
